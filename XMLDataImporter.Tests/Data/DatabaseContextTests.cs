@@ -1,37 +1,27 @@
-using Microsoft.EntityFrameworkCore;
 using XMLDataImporter.Data;
-using DotNetEnv;
 
-namespace XMLDataImporter.Tests
+namespace XMLDataImporter.Tests.Data;
+
+public class DatabaseTests : IDisposable
 {
-    public class DatabaseTests : IDisposable
+    private readonly DatabaseContext _db;
+
+    public DatabaseTests()
     {
-        private readonly DatabaseContext _db;
+        var factory = new DatabaseContextFactory();
+        _db = factory.CreateDbContext([]);
+    }
 
-        public DatabaseTests()
-        {
-            Env.Load();
+    public void Dispose()
+    {
+        _db.Dispose();
+    }
 
-            var options = new DbContextOptionsBuilder<DatabaseContext>()
-                .UseNpgsql($"Host={Env.GetString("POSTGRES_HOST")};" +
-                            $"Username={Env.GetString("POSTGRES_USER")};" +
-                            $"Password={Env.GetString("POSTGRES_PASSWORD")};" +
-                            $"Database={Env.GetString("POSTGRES_DB")};") 
-                .Options;
-
-            _db = new DatabaseContext(options); 
-        }
-
-        public void Dispose()
-        {
-            _db.Dispose();
-        }
-
-        [Fact]
-        public async Task IsConnectedToDatabase()
-        {
-            var result = await _db.Database.ExecuteSqlRawAsync("SELECT 1");
-            Assert.Equal(-1, result); 
-        }
+    [Fact]
+    public async Task IsConnectedToDatabase()
+    {
+        var result = await _db.Database.CanConnectAsync();
+        Assert.True(result);
     }
 }
+

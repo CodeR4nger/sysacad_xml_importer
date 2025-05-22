@@ -1,31 +1,46 @@
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Design;
-using DotNetEnv;
+using XMLDataImporter.Utils;
 
-namespace XMLDataImporter.Data
-{
-    public class DatabaseContext(DbContextOptions<DatabaseContext> options) : DbContext(options)
+namespace XMLDataImporter.Data;
+
+    public class DatabaseContext : DbContext
     {
+        public DatabaseContext(DbContextOptions<DatabaseContext> options) : base(options)
+        {
+            
+        }
 
+        
     }
 
         
-    public class DatabaseContextFactory : IDesignTimeDbContextFactory<DatabaseContext>
+public class DatabaseContextFactory : IDesignTimeDbContextFactory<DatabaseContext>
+{
+    private readonly IEnvironmentHandler _envHandler;
+
+    public DatabaseContextFactory() : this(new EnvironmentHandler())
     {
-        public DatabaseContext CreateDbContext(string[] args)
-        {
-            var optionsBuilder = new DbContextOptionsBuilder<DatabaseContext>();
+    }
 
-            Env.Load();
+    public DatabaseContextFactory(IEnvironmentHandler envHandler)
+    {
+        _envHandler = envHandler;
+        _envHandler.Load();
+    }
 
-            string connectionString = $"Host={Env.GetString("POSTGRES_HOST")};" +
-                                    $"Username={Env.GetString("POSTGRES_USER")};" +
-                                    $"Password={Env.GetString("POSTGRES_PASSWORD")};" +
-                                    $"Database={Env.GetString("POSTGRES_DB")};";
+    public DatabaseContext CreateDbContext(string[] args)
+    {
+        var optionsBuilder = new DbContextOptionsBuilder<DatabaseContext>();
 
-            optionsBuilder.UseNpgsql(connectionString);
+        string connectionString = $"Host={_envHandler.Get("POSTGRES_HOST")};" +
+                                  $"Username={_envHandler.Get("POSTGRES_USER")};" +
+                                  $"Password={_envHandler.Get("POSTGRES_PASSWORD")};" +
+                                  $"Database={_envHandler.Get("POSTGRES_DB")};";
 
-            return new DatabaseContext(optionsBuilder.Options);
-        }
+        optionsBuilder.UseNpgsql(connectionString);
+
+        return new DatabaseContext(optionsBuilder.Options);
     }
 }
+
