@@ -4,7 +4,7 @@ namespace XMLDataImporter.Utils;
 public interface IEnvironmentHandler
 {
     void Load();
-    string? Get(string key, string? defaultValue = null);
+    string Get(string key);
 }
 
 public class EnvironmentHandler : IEnvironmentHandler
@@ -20,9 +20,11 @@ public class EnvironmentHandler : IEnvironmentHandler
         }
     }
 
-    public string? Get(string key, string? defaultValue = null)
+    public string Get(string key)
     {
         var envValue = DotNetEnv.Env.GetString(key);
-        return string.IsNullOrEmpty(envValue) ? defaultValue : envValue;
+        if (string.IsNullOrEmpty(envValue))
+            throw new InvalidOperationException($"Environment variable '{key}' is not set.");
+        return envValue;
     }
 }
