@@ -4,15 +4,13 @@ using XMLDataImporter.Utils;
 
 namespace XMLDataImporter.Data;
 
-    public class DatabaseContext : DbContext
+public class DatabaseContext : DbContext
+{
+    public DatabaseContext(DbContextOptions<DatabaseContext> options) : base(options)
     {
-        public DatabaseContext(DbContextOptions<DatabaseContext> options) : base(options)
-        {
-            
-        }
-
         
     }
+}
 
         
 public class DatabaseContextFactory : IDesignTimeDbContextFactory<DatabaseContext>
