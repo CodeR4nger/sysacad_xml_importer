@@ -1,0 +1,62 @@
+@startuml Diagrama de Clases de XML
+package "Sistema Académico"{
+   
+    class Facultad {
+        -facultad: int
+        -nombre: str
+    }
+
+    class Universidad {
+        -universida: int
+        -nombre: str
+    }
+
+    class Grado {
+        -grado: int
+        -nombre: str
+    }
+
+    class Pais {
+        -pais: int
+        -nombre: str
+    }
+
+    class Localidad {
+        -codigo: int
+        -ciudad: str
+        -provincia: str
+        -pais_del_c: str
+    }
+
+    class Orientacion {
+        -orientacion: int
+        -nombre: str
+        -plan: Plan
+        -especialidad: Especialidad
+    }
+
+    class Plan {
+        -plan: int
+        -nombre: str
+        -especialidad: Especialidad
+    }
+
+    class Especialidad {
+        -especialidad: int
+        -nombre: str
+    }
+
+    class Materias {
+        -materia: int
+        -nombre: str
+        -ano: str
+        -especialidad: Especialidad
+        -plan: Plan
+    }
+
+    Plan -- Orientacion
+    Plan -- Especialidad
+    Plan -- Materias
+    Materias -- Especialidad
+}
+@enduml
