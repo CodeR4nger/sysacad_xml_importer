@@ -1,0 +1,4125 @@
+<?xml version = "1.0" encoding="Windows-1252" standalone="yes"?>
+<VFPData>
+	<_expxml>
+		<especialidad>800</especialidad>
+		<plan>2019</plan>
+		<orientacion>0</orientacion>
+		<nombre>Actividades Acadmicas de Posgrado</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>1</especialidad>
+		<plan>71</plan>
+		<orientacion>1</orientacion>
+		<nombre>Anlisis de Sistemas</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>1</especialidad>
+		<plan>68</plan>
+		<orientacion>0</orientacion>
+		<nombre>Analista de Sistemas</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>1</especialidad>
+		<plan>72</plan>
+		<orientacion>0</orientacion>
+		<nombre>Analista de Sistemas</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>1</especialidad>
+		<plan>74</plan>
+		<orientacion>0</orientacion>
+		<nombre>Analista de Sistemas</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>1</especialidad>
+		<plan>77</plan>
+		<orientacion>0</orientacion>
+		<nombre>Analista de Sistemas</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>5</especialidad>
+		<plan>2023</plan>
+		<orientacion>1</orientacion>
+		<nombre>Analista Desarrollador Universitario de Sistemas de Informacin</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>2</especialidad>
+		<plan>79</plan>
+		<orientacion>0</orientacion>
+		<nombre>Analista Universitario de Sistemas</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>5</especialidad>
+		<plan>85</plan>
+		<orientacion>1</orientacion>
+		<nombre>Analista Universitario de Sistemas</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>5</especialidad>
+		<plan>95</plan>
+		<orientacion>1</orientacion>
+		<nombre>Analista Universitario de Sistemas</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>5</especialidad>
+		<plan>2008</plan>
+		<orientacion>1</orientacion>
+		<nombre>Analista Universitario de Sistemas</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>2</especialidad>
+		<plan>79</plan>
+		<orientacion>1</orientacion>
+		<nombre>Analista Universitario de Sistemas (Ingreso &gt;=1983)</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>785</especialidad>
+		<plan>2015</plan>
+		<orientacion>0</orientacion>
+		<nombre>Bachiller orientacin Tecnolgica en Construcciones Viales</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>788</especialidad>
+		<plan>2016</plan>
+		<orientacion>0</orientacion>
+		<nombre>Bachillerato p/Adultos del Nivel Secundario - Orient. en Gestin y Administracin, Espec.Adm.Publica</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>599</especialidad>
+		<plan>2023</plan>
+		<orientacion>0</orientacion>
+		<nombre>Bioingeniera</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>557</especialidad>
+		<plan>2014</plan>
+		<orientacion>0</orientacion>
+		<nombre>C.P.A Fisicoqumica de los Materiales</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>554</especialidad>
+		<plan>2016</plan>
+		<orientacion>0</orientacion>
+		<nombre>C.P.A La Evaluacin de los Aprendizajes en la Universidad</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>556</especialidad>
+		<plan>2017</plan>
+		<orientacion>0</orientacion>
+		<nombre>C.P.A La Evaluacin de los Aprendizajes en la Universidad</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>555</especialidad>
+		<plan>0</plan>
+		<orientacion>0</orientacion>
+		<nombre>C.P.A Seleccin y Control de Procesos de Soldadura por Acto Elctrico</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>555</especialidad>
+		<plan>2017</plan>
+		<orientacion>0</orientacion>
+		<nombre>C.P.A Seleccin y Control de Procesos de Soldadura por Acto Elctrico</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>517</especialidad>
+		<plan>2014</plan>
+		<orientacion>0</orientacion>
+		<nombre>C.P.A Tpicos Avanzados sobre Tecnologa CMOS</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>549</especialidad>
+		<plan>2017</plan>
+		<orientacion>0</orientacion>
+		<nombre>C.P.A. Anlisis de Seales y sus Aplicaciones</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>513</especialidad>
+		<plan>2014</plan>
+		<orientacion>0</orientacion>
+		<nombre>C.P.A. Bombas y Sistemas de Bombeo</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>540</especialidad>
+		<plan>2016</plan>
+		<orientacion>0</orientacion>
+		<nombre>C.P.A. Dinmica y Control de Motores Elctricos</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>541</especialidad>
+		<plan>2016</plan>
+		<orientacion>0</orientacion>
+		<nombre>C.P.A. Diseo de Sistemas Digitales descriptos en VHDL e implementados en FPGAs. Simulac. y Sntesis</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>536</especialidad>
+		<plan>2016</plan>
+		<orientacion>0</orientacion>
+		<nombre>C.P.A. Ergonoma Laboral</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>509</especialidad>
+		<plan>2013</plan>
+		<orientacion>0</orientacion>
+		<nombre>C.P.A. Estudio y Simulacin de Turbulencias</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>508</especialidad>
+		<plan>2013</plan>
+		<orientacion>0</orientacion>
+		<nombre>C.P.A. Fenmenos del Transporte Computacional</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>552</especialidad>
+		<plan>2017</plan>
+		<orientacion>0</orientacion>
+		<nombre>C.P.A. Fundamentos de Big Data</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>537</especialidad>
+		<plan>2016</plan>
+		<orientacion>0</orientacion>
+		<nombre>C.P.A. La Formacin del Ingeniero en la Era Digital</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>412</especialidad>
+		<plan>2010</plan>
+		<orientacion>0</orientacion>
+		<nombre>C.P.A. Metalurga Fsica I</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>522</especialidad>
+		<plan>2013</plan>
+		<orientacion>0</orientacion>
+		<nombre>C.P.A. Metodologa y Epistemologa de la Ciencia y la Tecnologa</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>345</especialidad>
+		<plan>2008</plan>
+		<orientacion>0</orientacion>
+		<nombre>C.P.A. Modelado y control avanzado de procesos</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>343</especialidad>
+		<plan>2007</plan>
+		<orientacion>0</orientacion>
+		<nombre>C.P.A. Modelado, simulacin  y sntesis de procesos</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>343</especialidad>
+		<plan>2015</plan>
+		<orientacion>0</orientacion>
+		<nombre>C.P.A. Modelado, simulacin y sntesis de procesos</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>518</especialidad>
+		<plan>2014</plan>
+		<orientacion>0</orientacion>
+		<nombre>C.P.A. Procesamiento de Seales con Hardware Reconfigurable</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>551</especialidad>
+		<plan>2017</plan>
+		<orientacion>0</orientacion>
+		<nombre>C.P.A. Procesamiento de Seales e Imgenes</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>546</especialidad>
+		<plan>2006</plan>
+		<orientacion>0</orientacion>
+		<nombre>C.P.A. Propiedades Mecnicas de los Materiales</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>514</especialidad>
+		<plan>2014</plan>
+		<orientacion>0</orientacion>
+		<nombre>C.P.A. Proyecto de Caeras Industriales</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>356</especialidad>
+		<plan>2008</plan>
+		<orientacion>0</orientacion>
+		<nombre>C.P.A. Riesgo Elctrico</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>516</especialidad>
+		<plan>2014</plan>
+		<orientacion>0</orientacion>
+		<nombre>C.P.A. Sistemas Tolerantes a Fallas y Efectos de Radiacin Ionizantes en Ciruitos Integrados</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>580</especialidad>
+		<plan>2018</plan>
+		<orientacion>1</orientacion>
+		<nombre>C.P.A. Soldadura: Fabricacin bajo cdigos, normas y reglamentaciones</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>553</especialidad>
+		<plan>2017</plan>
+		<orientacion>0</orientacion>
+		<nombre>C.P.A. Tcnicas giles de Desarrollo de Software</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>550</especialidad>
+		<plan>2017</plan>
+		<orientacion>0</orientacion>
+		<nombre>C.P.A. Tcnicas Avanzadas de Control</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>535</especialidad>
+		<plan>2015</plan>
+		<orientacion>0</orientacion>
+		<nombre>C.P.A. Transporte y Distribucin de Gas Natural</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>344</especialidad>
+		<plan>2008</plan>
+		<orientacion>0</orientacion>
+		<nombre>C.P.A.Sntesis y diseo de procesos utilizando programacin matemtica</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>344</especialidad>
+		<plan>2015</plan>
+		<orientacion>0</orientacion>
+		<nombre>C.P.A.Sntesis y diseo de procesos utilizando programacin matemtica</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>110</especialidad>
+		<plan>97</plan>
+		<orientacion>3</orientacion>
+		<nombre>Curso de Actualizacin en Acstica y Sonido Profesional</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>108</especialidad>
+		<plan>97</plan>
+		<orientacion>4</orientacion>
+		<nombre>Curso de Actualizacin en Control del Ruido y Acstica Arquitectnica</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>108</especialidad>
+		<plan>97</plan>
+		<orientacion>2</orientacion>
+		<nombre>Curso de Actualizacin en Epistemologa</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>110</especialidad>
+		<plan>97</plan>
+		<orientacion>2</orientacion>
+		<nombre>Curso de Actualizacin en Epistemologa</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>110</especialidad>
+		<plan>97</plan>
+		<orientacion>5</orientacion>
+		<nombre>Curso de Actualizacin en Herramientas Matemticas y Computacionales</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>108</especialidad>
+		<plan>97</plan>
+		<orientacion>5</orientacion>
+		<nombre>Curso de Actualizacin en Herramientas y Tcnicas para la Calidad</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>110</especialidad>
+		<plan>97</plan>
+		<orientacion>4</orientacion>
+		<nombre>Curso de Actualizacin en Herramientas y Tcnicas para la Calidad</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>108</especialidad>
+		<plan>97</plan>
+		<orientacion>3</orientacion>
+		<nombre>Curso de Actualizacin y Especializacin en Ingeniera Estructural Sismorresistente</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>583</especialidad>
+		<plan>2019</plan>
+		<orientacion>1</orientacion>
+		<nombre>Doctorado en Informtica</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>300</especialidad>
+		<plan>96</plan>
+		<orientacion>0</orientacion>
+		<nombre>Doctorado en Ingeniera</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>303</especialidad>
+		<plan>2003</plan>
+		<orientacion>0</orientacion>
+		<nombre>Doctorado en Ingeniera, mencin Acstica</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>476</especialidad>
+		<plan>2008</plan>
+		<orientacion>0</orientacion>
+		<nombre>Doctorado en Ingeniera, mencin Civil - Ambiental</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>301</especialidad>
+		<plan>2001</plan>
+		<orientacion>0</orientacion>
+		<nombre>Doctorado en Ingeniera, mencin Electrnica</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>572</especialidad>
+		<plan>2018</plan>
+		<orientacion>0</orientacion>
+		<nombre>Doctorado en Ingeniera, mencin en Computacin</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>304</especialidad>
+		<plan>2003</plan>
+		<orientacion>0</orientacion>
+		<nombre>Doctorado en Ingeniera, mencin Ensayos Estructurales</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>427</especialidad>
+		<plan>2009</plan>
+		<orientacion>0</orientacion>
+		<nombre>Doctorado en Ingeniera, mencin Industrial</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>325</especialidad>
+		<plan>96</plan>
+		<orientacion>0</orientacion>
+		<nombre>Doctorado en ingeniera, mencin Ingeniera Civil</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>302</especialidad>
+		<plan>2009</plan>
+		<orientacion>0</orientacion>
+		<nombre>Doctorado en Ingeniera, mencin Materiales</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>302</especialidad>
+		<plan>2020</plan>
+		<orientacion>0</orientacion>
+		<nombre>Doctorado en Ingeniera, mencin Materiales</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>411</especialidad>
+		<plan>2008</plan>
+		<orientacion>0</orientacion>
+		<nombre>Doctorado en Ingeniera, mencin Mecnica Terica y Aplicada</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>317</especialidad>
+		<plan>2004</plan>
+		<orientacion>0</orientacion>
+		<nombre>Doctorado en Ingeniera, mencin Procesamiento de Seales e Imgenes</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>305</especialidad>
+		<plan>96</plan>
+		<orientacion>0</orientacion>
+		<nombre>Doctorado en Ingeniera, mencin Qumica</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>306</especialidad>
+		<plan>96</plan>
+		<orientacion>0</orientacion>
+		<nombre>Doctorado en ingeniera, mencin Sistemas de Informacin</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>511</especialidad>
+		<plan>2013</plan>
+		<orientacion>0</orientacion>
+		<nombre>Doctorado en Ingeniera, mencin Tecnologas Qumicas</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>147</especialidad>
+		<plan>2013</plan>
+		<orientacion>1</orientacion>
+		<nombre>Epecializacin en Tecnologa de los Alimentos - Ord. 2003</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>166</especialidad>
+		<plan>2000</plan>
+		<orientacion>1</orientacion>
+		<nombre>Espec. en Ciencias de la Computacin con Orientacin Bases de Datos</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>221</especialidad>
+		<plan>2009</plan>
+		<orientacion>1</orientacion>
+		<nombre>Espec. en Ing. Estructural Orientada a Rec. Contenedores de Presin, Caeras y Equipos</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>221</especialidad>
+		<plan>2000</plan>
+		<orientacion>1</orientacion>
+		<nombre>Espec. en Ing.Estructural Orient.a Recip.Cont.de Pres.,Ca y Equipos</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>101</especialidad>
+		<plan>98</plan>
+		<orientacion>3</orientacion>
+		<nombre>Espec. en Ingeniera Gerencial - Orientacin Administracin Empresarial</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>127</especialidad>
+		<plan>2004</plan>
+		<orientacion>1</orientacion>
+		<nombre>Espec. en Sim.y Mec.Comp.Aplicada al Diseo en Ingeniera</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>115</especialidad>
+		<plan>99</plan>
+		<orientacion>3</orientacion>
+		<nombre>Espec. en Tecnologa Aeroespacial - Orient. Telecomunicaciones y Electrnica de Sistemas Espaciales</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>115</especialidad>
+		<plan>99</plan>
+		<orientacion>1</orientacion>
+		<nombre>Espec. en Tecnologa Aeroespacial - Orientacin Mecnica Espacial</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>101</especialidad>
+		<plan>98</plan>
+		<orientacion>1</orientacion>
+		<nombre>Espec.en Ingeniera Gerencial - Orientacin Gestin Industrial</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>150</especialidad>
+		<plan>98</plan>
+		<orientacion>0</orientacion>
+		<nombre>Espec.en Preparacin y Evaluacin de Proyectos</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>542</especialidad>
+		<plan>2016</plan>
+		<orientacion>1</orientacion>
+		<nombre>Especializ. en Mantenimiento de Instalaciones de Transmisin y Distribucin de la Energa Elctrica</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>582</especialidad>
+		<plan>2020</plan>
+		<orientacion>1</orientacion>
+		<nombre>Especializacin en Automviles de Competicin</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>605</especialidad>
+		<plan>2023</plan>
+		<orientacion>0</orientacion>
+		<nombre>Especializacin en Bioeconoma Aplicada a la Agroindustria</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>598</especialidad>
+		<plan>2023</plan>
+		<orientacion>0</orientacion>
+		<nombre>Especializacin en Centrales Nucleares</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>430</especialidad>
+		<plan>2010</plan>
+		<orientacion>1</orientacion>
+		<nombre>Especializacin en Ciencias de la Computacin con Orientacin Bases de Datos</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>488</especialidad>
+		<plan>2011</plan>
+		<orientacion>1</orientacion>
+		<nombre>Especializacin en Computacin</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>106</especialidad>
+		<plan>96</plan>
+		<orientacion>1</orientacion>
+		<nombre>Especializacin en Control Automtico</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>146</especialidad>
+		<plan>2002</plan>
+		<orientacion>0</orientacion>
+		<nombre>Especializacin en Control e Inspeccin de Construcciones Soldadas</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>212</especialidad>
+		<plan>2003</plan>
+		<orientacion>1</orientacion>
+		<nombre>Especializacin en Desarrollo Sustentable del Hbitat Humano</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>437</especialidad>
+		<plan>2010</plan>
+		<orientacion>1</orientacion>
+		<nombre>Especializacin en Desarrollo Sustentable del Hbitat Humano</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>547</especialidad>
+		<plan>2017</plan>
+		<orientacion>1</orientacion>
+		<nombre>Especializacin en Direccin y Gestin de Empresas Agro-Industriales</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>103</especialidad>
+		<plan>99</plan>
+		<orientacion>1</orientacion>
+		<nombre>Especializacin en Docencia Universitaria</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>350</especialidad>
+		<plan>99</plan>
+		<orientacion>1</orientacion>
+		<nombre>Especializacin en Docencia Universitaria</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>350</especialidad>
+		<plan>2013</plan>
+		<orientacion>1</orientacion>
+		<nombre>Especializacin en Docencia Universitaria</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>538</especialidad>
+		<plan>2016</plan>
+		<orientacion>1</orientacion>
+		<nombre>Especializacin en Energa Elctrica, mencin Generacin</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>539</especialidad>
+		<plan>2016</plan>
+		<orientacion>1</orientacion>
+		<nombre>Especializacin en Energa Elctrica, mencin Transmisin y Distribucin</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>501</especialidad>
+		<plan>2013</plan>
+		<orientacion>1</orientacion>
+		<nombre>Especializacin en Ensayos Estructurales y no Destructivos</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>144</especialidad>
+		<plan>2006</plan>
+		<orientacion>0</orientacion>
+		<nombre>Especializacin en Ergonoma</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>144</especialidad>
+		<plan>2017</plan>
+		<orientacion>1</orientacion>
+		<nombre>Especializacin en Ergonoma</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>213</especialidad>
+		<plan>2004</plan>
+		<orientacion>1</orientacion>
+		<nombre>Especializacin en Gestin de la Educacin Superior</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>567</especialidad>
+		<plan>2019</plan>
+		<orientacion>1</orientacion>
+		<nombre>Especializacin en Gestin de la Innovacin de Empresas Textiles y de la Moda</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>567</especialidad>
+		<plan>2019</plan>
+		<orientacion>2</orientacion>
+		<nombre>Especializacin en Gestin de la Innovacin de Empresas Textiles y de la Moda - Ord. 1947</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>428</especialidad>
+		<plan>2009</plan>
+		<orientacion>1</orientacion>
+		<nombre>Especializacin en Gestin de la Innovacin y la Vinculacin Tecnolgica</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>383</especialidad>
+		<plan>2008</plan>
+		<orientacion>0</orientacion>
+		<nombre>Especializacin en Gestin de Sistemas Agroalimentarios</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>601</especialidad>
+		<plan>2023</plan>
+		<orientacion>1</orientacion>
+		<nombre>Especializacin en Gestin Logstica Integral de la Cadena de Suministros</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>601</especialidad>
+		<plan>2023</plan>
+		<orientacion>2</orientacion>
+		<nombre>Especializacin en Gestin Logstica Integral de la Cadena de Suministros (EaD)</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>148</especialidad>
+		<plan>2001</plan>
+		<orientacion>0</orientacion>
+		<nombre>Especializacin en Higiene y Seguridad en el Trabajo</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>148</especialidad>
+		<plan>2015</plan>
+		<orientacion>0</orientacion>
+		<nombre>Especializacin en Higiene y Seguridad en el Trabajo</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>110</especialidad>
+		<plan>97</plan>
+		<orientacion>1</orientacion>
+		<nombre>Especializacin en Ingeniera Acstica y de Sonido</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>105</especialidad>
+		<plan>96</plan>
+		<orientacion>1</orientacion>
+		<nombre>Especializacin en Ingeniera Ambiental</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>105</especialidad>
+		<plan>98</plan>
+		<orientacion>1</orientacion>
+		<nombre>Especializacin en Ingeniera Ambiental</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>143</especialidad>
+		<plan>2006</plan>
+		<orientacion>1</orientacion>
+		<nombre>Especializacin en Ingeniera Ambiental</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>143</especialidad>
+		<plan>2014</plan>
+		<orientacion>1</orientacion>
+		<nombre>Especializacin en Ingeniera Ambiental</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>504</especialidad>
+		<plan>2013</plan>
+		<orientacion>0</orientacion>
+		<nombre>Especializacin en Ingeniera Bioenergtica</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>149</especialidad>
+		<plan>2001</plan>
+		<orientacion>0</orientacion>
+		<nombre>Especializacin en Ingeniera Clnica</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>113</especialidad>
+		<plan>95</plan>
+		<orientacion>1</orientacion>
+		<nombre>Especializacin en Ingeniera Computacional</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>100</especialidad>
+		<plan>2004</plan>
+		<orientacion>0</orientacion>
+		<nombre>Especializacin en Ingeniera en Calidad</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>100</especialidad>
+		<plan>2012</plan>
+		<orientacion>0</orientacion>
+		<nombre>Especializacin en Ingeniera en Calidad</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>104</especialidad>
+		<plan>96</plan>
+		<orientacion>1</orientacion>
+		<nombre>Especializacin en Ingeniera en Calidad</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>104</especialidad>
+		<plan>2004</plan>
+		<orientacion>1</orientacion>
+		<nombre>Especializacin en Ingeniera en Calidad</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>104</especialidad>
+		<plan>2012</plan>
+		<orientacion>1</orientacion>
+		<nombre>Especializacin en Ingeniera en Calidad</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>100</especialidad>
+		<plan>2012</plan>
+		<orientacion>1</orientacion>
+		<nombre>Especializacin en Ingeniera en Calidad - Ord. 1970</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>217</especialidad>
+		<plan>2003</plan>
+		<orientacion>0</orientacion>
+		<nombre>Especializacin en Ingeniera en Control Automtico</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>217</especialidad>
+		<plan>2008</plan>
+		<orientacion>0</orientacion>
+		<nombre>Especializacin en Ingeniera en Control Automtico</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>217</especialidad>
+		<plan>2008</plan>
+		<orientacion>1</orientacion>
+		<nombre>Especializacin en Ingeniera en Control Automtico - Ord. 2001</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>145</especialidad>
+		<plan>2002</plan>
+		<orientacion>0</orientacion>
+		<nombre>Especializacin en Ingeniera en Mantenimiento</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>145</especialidad>
+		<plan>2017</plan>
+		<orientacion>0</orientacion>
+		<nombre>Especializacin en Ingeniera en Mantenimiento</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>116</especialidad>
+		<plan>2000</plan>
+		<orientacion>1</orientacion>
+		<nombre>Especializacin en Ingeniera en Sistemas de Informacin</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>349</especialidad>
+		<plan>2000</plan>
+		<orientacion>1</orientacion>
+		<nombre>Especializacin en Ingeniera en Sistemas de Informacin</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>349</especialidad>
+		<plan>2012</plan>
+		<orientacion>1</orientacion>
+		<nombre>Especializacin en Ingeniera en Sistemas de Informacin</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>349</especialidad>
+		<plan>2012</plan>
+		<orientacion>2</orientacion>
+		<nombre>Especializacin en Ingeniera en Sistemas de Informacin - Ord. 1968</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>495</especialidad>
+		<plan>2012</plan>
+		<orientacion>1</orientacion>
+		<nombre>Especializacin en Ingeniera en Telecomunicaciones</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>495</especialidad>
+		<plan>2020</plan>
+		<orientacion>1</orientacion>
+		<nombre>Especializacin en Ingeniera en Telecomunicaciones</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>130</especialidad>
+		<plan>2006</plan>
+		<orientacion>1</orientacion>
+		<nombre>Especializacin en Ingeniera Estructural</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>130</especialidad>
+		<plan>2014</plan>
+		<orientacion>1</orientacion>
+		<nombre>Especializacin en Ingeniera Estructural</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>130</especialidad>
+		<plan>2020</plan>
+		<orientacion>1</orientacion>
+		<nombre>Especializacin en Ingeniera Estructural</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>108</especialidad>
+		<plan>97</plan>
+		<orientacion>1</orientacion>
+		<nombre>Especializacin en Ingeniera Estructural Sismorresistente</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>108</especialidad>
+		<plan>2005</plan>
+		<orientacion>1</orientacion>
+		<nombre>Especializacin en Ingeniera Estructural Sismorresistente</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>128</especialidad>
+		<plan>2005</plan>
+		<orientacion>1</orientacion>
+		<nombre>Especializacin en Ingeniera Estructural Sismorresistente</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>101</especialidad>
+		<plan>95</plan>
+		<orientacion>1</orientacion>
+		<nombre>Especializacin en Ingeniera Gerencial</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>101</especialidad>
+		<plan>2003</plan>
+		<orientacion>1</orientacion>
+		<nombre>Especializacin en Ingeniera Gerencial</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>102</especialidad>
+		<plan>95</plan>
+		<orientacion>0</orientacion>
+		<nombre>Especializacin en Ingeniera Gerencial</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>102</especialidad>
+		<plan>2002</plan>
+		<orientacion>0</orientacion>
+		<nombre>Especializacin en Ingeniera Gerencial</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>102</especialidad>
+		<plan>2014</plan>
+		<orientacion>0</orientacion>
+		<nombre>Especializacin en Ingeniera Gerencial</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>566</especialidad>
+		<plan>2019</plan>
+		<orientacion>1</orientacion>
+		<nombre>Especializacin en Ingeniera Vial</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>494</especialidad>
+		<plan>2010</plan>
+		<orientacion>1</orientacion>
+		<nombre>Especializacin en Management Tecnolgico</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>581</especialidad>
+		<plan>2020</plan>
+		<orientacion>0</orientacion>
+		<nombre>Especializacin en Minera de Datos</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>581</especialidad>
+		<plan>2020</plan>
+		<orientacion>1</orientacion>
+		<nombre>Especializacin en Minera de Datos (EaD)</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>500</especialidad>
+		<plan>2011</plan>
+		<orientacion>1</orientacion>
+		<nombre>Especializacin en Patologa y Control de Calidad de Estructuras Sismorresistentes</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>500</especialidad>
+		<plan>2022</plan>
+		<orientacion>0</orientacion>
+		<nombre>Especializacin en Patologa y Control de Calidad de Estructuras Sismorresistentes</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>502</especialidad>
+		<plan>2013</plan>
+		<orientacion>1</orientacion>
+		<nombre>Especializacin en Patologas y Teraputicas de la Construccin</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>390</especialidad>
+		<plan>2008</plan>
+		<orientacion>1</orientacion>
+		<nombre>Especializacin en Procesos Biotecnolgicos</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>112</especialidad>
+		<plan>99</plan>
+		<orientacion>1</orientacion>
+		<nombre>Especializacin en Radioqumica</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>111</especialidad>
+		<plan>98</plan>
+		<orientacion>1</orientacion>
+		<nombre>Especializacin en Reactores Nucleares</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>142</especialidad>
+		<plan>2008</plan>
+		<orientacion>1</orientacion>
+		<nombre>Especializacin en Redes de Datos</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>142</especialidad>
+		<plan>2015</plan>
+		<orientacion>1</orientacion>
+		<nombre>Especializacin en Redes de Datos</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>109</especialidad>
+		<plan>98</plan>
+		<orientacion>1</orientacion>
+		<nombre>Especializacin en Siderurgia</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>324</especialidad>
+		<plan>2004</plan>
+		<orientacion>1</orientacion>
+		<nombre>Especializacin en Sim.y Mec.Comp.Aplic.al Dis.en Ingeniera</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>597</especialidad>
+		<plan>2023</plan>
+		<orientacion>0</orientacion>
+		<nombre>Especializacin en Sistemas Electrnicos</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>154</especialidad>
+		<plan>98</plan>
+		<orientacion>0</orientacion>
+		<nombre>Especializacin en Soldadura</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>154</especialidad>
+		<plan>2008</plan>
+		<orientacion>0</orientacion>
+		<nombre>Especializacin en Soldadura</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>154</especialidad>
+		<plan>2014</plan>
+		<orientacion>0</orientacion>
+		<nombre>Especializacin en Soldadura</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>107</especialidad>
+		<plan>96</plan>
+		<orientacion>1</orientacion>
+		<nombre>Especializacin en Tecnologa de los Alimentos</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>147</especialidad>
+		<plan>2005</plan>
+		<orientacion>0</orientacion>
+		<nombre>Especializacin en Tecnologa de los Alimentos</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>147</especialidad>
+		<plan>2013</plan>
+		<orientacion>0</orientacion>
+		<nombre>Especializacin en Tecnologa de los Alimentos</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>610</especialidad>
+		<plan>2024</plan>
+		<orientacion>0</orientacion>
+		<nombre>Especializacin en Tecnologas de Informacin Geogrfica</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>219</especialidad>
+		<plan>2008</plan>
+		<orientacion>0</orientacion>
+		<nombre>Especializacin en Transporte</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>219</especialidad>
+		<plan>2017</plan>
+		<orientacion>1</orientacion>
+		<nombre>Especializacin en Transporte</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>114</especialidad>
+		<plan>97</plan>
+		<orientacion>1</orientacion>
+		<nombre>Especializacin en Transporte y Logstica</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>6</especialidad>
+		<plan>2023</plan>
+		<orientacion>0</orientacion>
+		<nombre>Ingeniera Aeroespacial</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>6</especialidad>
+		<plan>79</plan>
+		<orientacion>0</orientacion>
+		<nombre>Ingeniera Aeronutica</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>6</especialidad>
+		<plan>95</plan>
+		<orientacion>0</orientacion>
+		<nombre>Ingeniera Aeronutica</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>6</especialidad>
+		<plan>2003</plan>
+		<orientacion>0</orientacion>
+		<nombre>Ingeniera Aeronutica</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>6</especialidad>
+		<plan>85</plan>
+		<orientacion>0</orientacion>
+		<nombre>Ingeniera Aeronutica - Plan 85</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>6</especialidad>
+		<plan>85</plan>
+		<orientacion>3</orientacion>
+		<nombre>Ingeniera Aeronutica - Plan 85 Mod.</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>596</especialidad>
+		<plan>2023</plan>
+		<orientacion>0</orientacion>
+		<nombre>Ingeniera Ambiental</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>31</especialidad>
+		<plan>2023</plan>
+		<orientacion>0</orientacion>
+		<nombre>Ingeniera Civil</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>31</especialidad>
+		<plan>95</plan>
+		<orientacion>0</orientacion>
+		<nombre>Ingeniera Civil - Orientacin Construcciones</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>31</especialidad>
+		<plan>95</plan>
+		<orientacion>2</orientacion>
+		<nombre>Ingeniera Civil - Orientacin Hidrulica</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>31</especialidad>
+		<plan>95</plan>
+		<orientacion>4</orientacion>
+		<nombre>Ingeniera Civil - Orientacin Vas de Comunicacin</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>16</especialidad>
+		<plan>88</plan>
+		<orientacion>2</orientacion>
+		<nombre>Ingeniera Civil (compl. de Ingeniera en Vas de Comunic)</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>20</especialidad>
+		<plan>88</plan>
+		<orientacion>2</orientacion>
+		<nombre>Ingeniera Civil (complemento de Ingeniera Hidrulica)</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>21</especialidad>
+		<plan>75</plan>
+		<orientacion>2</orientacion>
+		<nombre>Ingeniera Civil (complemento sobre Ingeniera en Construc.)</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>21</especialidad>
+		<plan>79</plan>
+		<orientacion>2</orientacion>
+		<nombre>Ingeniera Civil (complemento sobre Ingeniera en Construc.)</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>21</especialidad>
+		<plan>85</plan>
+		<orientacion>2</orientacion>
+		<nombre>Ingeniera Civil (complemento sobre Ingeniera en Construc.)</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>21</especialidad>
+		<plan>88</plan>
+		<orientacion>2</orientacion>
+		<nombre>Ingeniera Civil (complemento sobre Ingeniera en Construc.)</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>31</especialidad>
+		<plan>95</plan>
+		<orientacion>5</orientacion>
+		<nombre>Ingeniera Civil Plan - 95 Mod.</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>7</especialidad>
+		<plan>65</plan>
+		<orientacion>0</orientacion>
+		<nombre>Ingeniera Elctrica</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>7</especialidad>
+		<plan>75</plan>
+		<orientacion>0</orientacion>
+		<nombre>Ingeniera Elctrica</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>7</especialidad>
+		<plan>79</plan>
+		<orientacion>0</orientacion>
+		<nombre>Ingeniera Elctrica</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>7</especialidad>
+		<plan>85</plan>
+		<orientacion>0</orientacion>
+		<nombre>Ingeniera Elctrica</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>7</especialidad>
+		<plan>95</plan>
+		<orientacion>4</orientacion>
+		<nombre>Ingeniera Elctrica - Or.Electrnica Ind,Inst.y Control</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>7</especialidad>
+		<plan>95</plan>
+		<orientacion>2</orientacion>
+		<nombre>Ingeniera Elctrica - Orient. Construc.Electromecnicas</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>7</especialidad>
+		<plan>95</plan>
+		<orientacion>0</orientacion>
+		<nombre>Ingeniera Elctrica - Orientacin Potencia</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>7</especialidad>
+		<plan>95</plan>
+		<orientacion>5</orientacion>
+		<nombre>Ingeniera Elctrica - Plan 95 Mod.</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>8</especialidad>
+		<plan>72</plan>
+		<orientacion>0</orientacion>
+		<nombre>Ingeniera Electromecnica</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>8</especialidad>
+		<plan>75</plan>
+		<orientacion>0</orientacion>
+		<nombre>Ingeniera Electromecnica</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>8</especialidad>
+		<plan>77</plan>
+		<orientacion>0</orientacion>
+		<nombre>Ingeniera Electromecnica</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>8</especialidad>
+		<plan>79</plan>
+		<orientacion>0</orientacion>
+		<nombre>Ingeniera Electromecnica</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>8</especialidad>
+		<plan>85</plan>
+		<orientacion>0</orientacion>
+		<nombre>Ingeniera Electromecnica</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>8</especialidad>
+		<plan>88</plan>
+		<orientacion>0</orientacion>
+		<nombre>Ingeniera Electromecnica</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>8</especialidad>
+		<plan>2023</plan>
+		<orientacion>0</orientacion>
+		<nombre>Ingeniera Electromecnica</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>8</especialidad>
+		<plan>95</plan>
+		<orientacion>3</orientacion>
+		<nombre>Ingeniera Electromecnica - Orient. Gestin Empresaria</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>8</especialidad>
+		<plan>95</plan>
+		<orientacion>2</orientacion>
+		<nombre>Ingeniera Electromecnica - Orient. Proyecto de Instalaciones Industriales</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>8</especialidad>
+		<plan>95</plan>
+		<orientacion>1</orientacion>
+		<nombre>Ingeniera Electromecnica - Orient. Proyecto de Mquinas</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>8</especialidad>
+		<plan>95</plan>
+		<orientacion>4</orientacion>
+		<nombre>Ingeniera Electromecnica - Orient. Sist. Automatizados</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>8</especialidad>
+		<plan>95</plan>
+		<orientacion>0</orientacion>
+		<nombre>Ingeniera Electromecnica - Orient.Operacin y Mantenimiento</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>8</especialidad>
+		<plan>95</plan>
+		<orientacion>5</orientacion>
+		<nombre>Ingeniera Electromecnica - Plan 95 Mod.</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>9</especialidad>
+		<plan>59</plan>
+		<orientacion>0</orientacion>
+		<nombre>Ingeniera Electrnica</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>9</especialidad>
+		<plan>65</plan>
+		<orientacion>0</orientacion>
+		<nombre>Ingeniera Electrnica</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>9</especialidad>
+		<plan>71</plan>
+		<orientacion>0</orientacion>
+		<nombre>Ingeniera Electrnica</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>9</especialidad>
+		<plan>74</plan>
+		<orientacion>0</orientacion>
+		<nombre>Ingeniera Electrnica</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>9</especialidad>
+		<plan>75</plan>
+		<orientacion>0</orientacion>
+		<nombre>Ingeniera Electrnica</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>9</especialidad>
+		<plan>85</plan>
+		<orientacion>0</orientacion>
+		<nombre>Ingeniera Electrnica</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>9</especialidad>
+		<plan>95</plan>
+		<orientacion>0</orientacion>
+		<nombre>Ingeniera Electrnica</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>9</especialidad>
+		<plan>2023</plan>
+		<orientacion>0</orientacion>
+		<nombre>Ingeniera Electrnica</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>9</especialidad>
+		<plan>79</plan>
+		<orientacion>0</orientacion>
+		<nombre>Ingeniera Electrnica - Plan 79</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>9</especialidad>
+		<plan>79</plan>
+		<orientacion>3</orientacion>
+		<nombre>Ingeniera Electrnica - Plan 79 Mod.</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>9</especialidad>
+		<plan>95</plan>
+		<orientacion>2</orientacion>
+		<nombre>Ingeniera Electrnica - Plan 95 Mod</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>45</especialidad>
+		<plan>99</plan>
+		<orientacion>0</orientacion>
+		<nombre>Ingeniera en Alimentos</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>30</especialidad>
+		<plan>57</plan>
+		<orientacion>0</orientacion>
+		<nombre>Ingeniera en Automotores</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>21</especialidad>
+		<plan>65</plan>
+		<orientacion>0</orientacion>
+		<nombre>Ingeniera en Construcciones</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>21</especialidad>
+		<plan>74</plan>
+		<orientacion>0</orientacion>
+		<nombre>Ingeniera en Construcciones</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>21</especialidad>
+		<plan>75</plan>
+		<orientacion>0</orientacion>
+		<nombre>Ingeniera en Construcciones</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>21</especialidad>
+		<plan>79</plan>
+		<orientacion>0</orientacion>
+		<nombre>Ingeniera en Construcciones</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>21</especialidad>
+		<plan>85</plan>
+		<orientacion>0</orientacion>
+		<nombre>Ingeniera en Construcciones</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>21</especialidad>
+		<plan>88</plan>
+		<orientacion>0</orientacion>
+		<nombre>Ingeniera en Construcciones</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>40</especialidad>
+		<plan>56</plan>
+		<orientacion>0</orientacion>
+		<nombre>Ingeniera en Construcciones Mecnicas</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>586</especialidad>
+		<plan>2021</plan>
+		<orientacion>0</orientacion>
+		<nombre>Ingeniera en Energa</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>7</especialidad>
+		<plan>2023</plan>
+		<orientacion>0</orientacion>
+		<nombre>Ingeniera en Energa Elctrica</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>49</especialidad>
+		<plan>2011</plan>
+		<orientacion>0</orientacion>
+		<nombre>Ingeniera en Industria Automotriz</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>49</especialidad>
+		<plan>2024</plan>
+		<orientacion>0</orientacion>
+		<nombre>Ingenieria en Industria Automotriz</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>5</especialidad>
+		<plan>85</plan>
+		<orientacion>0</orientacion>
+		<nombre>Ingeniera en Sistemas de Informacin</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>5</especialidad>
+		<plan>95</plan>
+		<orientacion>0</orientacion>
+		<nombre>Ingeniera en Sistemas de Informacin</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>5</especialidad>
+		<plan>2008</plan>
+		<orientacion>0</orientacion>
+		<nombre>Ingeniera en Sistemas de Informacin</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>5</especialidad>
+		<plan>2023</plan>
+		<orientacion>0</orientacion>
+		<nombre>Ingeniera en Sistemas de Informacin</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>612</especialidad>
+		<plan>2023</plan>
+		<orientacion>0</orientacion>
+		<nombre>Ingeniera en Telecomunicaciones</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>571</especialidad>
+		<plan>2019</plan>
+		<orientacion>0</orientacion>
+		<nombre>Ingeniera en Transporte</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>16</especialidad>
+		<plan>88</plan>
+		<orientacion>0</orientacion>
+		<nombre>Ingeniera en Vas de Comunicacin</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>510</especialidad>
+		<plan>2014</plan>
+		<orientacion>0</orientacion>
+		<nombre>Ingeniera Ferroviaria</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>510</especialidad>
+		<plan>2023</plan>
+		<orientacion>0</orientacion>
+		<nombre>Ingeniera Ferroviaria</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>20</especialidad>
+		<plan>88</plan>
+		<orientacion>0</orientacion>
+		<nombre>Ingeniera Hidrulica</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>24</especialidad>
+		<plan>2003</plan>
+		<orientacion>0</orientacion>
+		<nombre>Ingeniera Industrial</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>24</especialidad>
+		<plan>2007</plan>
+		<orientacion>0</orientacion>
+		<nombre>Ingeniera Industrial</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>24</especialidad>
+		<plan>2023</plan>
+		<orientacion>0</orientacion>
+		<nombre>Ingeniera Industrial</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>24</especialidad>
+		<plan>2003</plan>
+		<orientacion>1</orientacion>
+		<nombre>Ingeniera Industrial (Ord. 1114)</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>24</especialidad>
+		<plan>95</plan>
+		<orientacion>1</orientacion>
+		<nombre>Ingeniera Industrial-Orient.Administracin Empresaria</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>24</especialidad>
+		<plan>95</plan>
+		<orientacion>2</orientacion>
+		<nombre>Ingeniera Industrial-Orient.Sistemas Productivos</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>28</especialidad>
+		<plan>86</plan>
+		<orientacion>0</orientacion>
+		<nombre>Ingeniera Laboral</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>17</especialidad>
+		<plan>65</plan>
+		<orientacion>0</orientacion>
+		<nombre>Ingeniera Mecnica</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>17</especialidad>
+		<plan>75</plan>
+		<orientacion>0</orientacion>
+		<nombre>Ingeniera Mecnica</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>17</especialidad>
+		<plan>85</plan>
+		<orientacion>0</orientacion>
+		<nombre>Ingeniera Mecnica</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>17</especialidad>
+		<plan>94</plan>
+		<orientacion>0</orientacion>
+		<nombre>Ingeniera Mecnica</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>17</especialidad>
+		<plan>2023</plan>
+		<orientacion>0</orientacion>
+		<nombre>Ingeniera Mecnica</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>17</especialidad>
+		<plan>79</plan>
+		<orientacion>4</orientacion>
+		<nombre>Ingeniera Mecnica - Orientacin Agroindustrial</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>17</especialidad>
+		<plan>79</plan>
+		<orientacion>0</orientacion>
+		<nombre>Ingeniera Mecnica - Orientacin Diseo Mecnico</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>17</especialidad>
+		<plan>79</plan>
+		<orientacion>2</orientacion>
+		<nombre>Ingeniera Mecnica - Orientacin Termomecnica</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>17</especialidad>
+		<plan>94</plan>
+		<orientacion>2</orientacion>
+		<nombre>Ingeniera Mecnica - Plan 94 Mod.</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>573</especialidad>
+		<plan>2018</plan>
+		<orientacion>0</orientacion>
+		<nombre>Ingeniera Mecatrnica</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>573</especialidad>
+		<plan>2023</plan>
+		<orientacion>0</orientacion>
+		<nombre>Ingeniera Mecatrnica</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>18</especialidad>
+		<plan>56</plan>
+		<orientacion>0</orientacion>
+		<nombre>Ingeniera Metalrgica</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>18</especialidad>
+		<plan>65</plan>
+		<orientacion>0</orientacion>
+		<nombre>Ingeniera Metalrgica</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>18</especialidad>
+		<plan>75</plan>
+		<orientacion>0</orientacion>
+		<nombre>Ingeniera Metalrgica</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>18</especialidad>
+		<plan>79</plan>
+		<orientacion>0</orientacion>
+		<nombre>Ingeniera Metalrgica</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>18</especialidad>
+		<plan>89</plan>
+		<orientacion>0</orientacion>
+		<nombre>Ingeniera Metalrgica</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>18</especialidad>
+		<plan>95</plan>
+		<orientacion>0</orientacion>
+		<nombre>Ingeniera Metalrgica</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>18</especialidad>
+		<plan>2023</plan>
+		<orientacion>0</orientacion>
+		<nombre>Ingeniera Metalrgica</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>18</especialidad>
+		<plan>95</plan>
+		<orientacion>2</orientacion>
+		<nombre>Ingeniera Metalrgica - Plan 95 Mod.</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>19</especialidad>
+		<plan>65</plan>
+		<orientacion>0</orientacion>
+		<nombre>Ingeniera Naval</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>19</especialidad>
+		<plan>75</plan>
+		<orientacion>0</orientacion>
+		<nombre>Ingeniera Naval</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>19</especialidad>
+		<plan>79</plan>
+		<orientacion>0</orientacion>
+		<nombre>Ingeniera Naval</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>19</especialidad>
+		<plan>86</plan>
+		<orientacion>0</orientacion>
+		<nombre>Ingeniera Naval</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>19</especialidad>
+		<plan>95</plan>
+		<orientacion>0</orientacion>
+		<nombre>Ingeniera Naval</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>19</especialidad>
+		<plan>2002</plan>
+		<orientacion>0</orientacion>
+		<nombre>Ingeniera Naval</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>19</especialidad>
+		<plan>2013</plan>
+		<orientacion>0</orientacion>
+		<nombre>Ingeniera Naval</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>19</especialidad>
+		<plan>2002</plan>
+		<orientacion>1</orientacion>
+		<nombre>Ingeniera Naval - Plan 2002 Mod.</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>25</especialidad>
+		<plan>94</plan>
+		<orientacion>0</orientacion>
+		<nombre>Ingeniera Pesquera - Orientacin Captura</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>25</especialidad>
+		<plan>95</plan>
+		<orientacion>0</orientacion>
+		<nombre>Ingeniera Pesquera - Orientacin Captura</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>25</especialidad>
+		<plan>97</plan>
+		<orientacion>0</orientacion>
+		<nombre>Ingeniera Pesquera - Orientacin Captura</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>25</especialidad>
+		<plan>94</plan>
+		<orientacion>2</orientacion>
+		<nombre>Ingeniera Pesquera - Orientacin Procesamiento</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>25</especialidad>
+		<plan>95</plan>
+		<orientacion>2</orientacion>
+		<nombre>Ingeniera Pesquera - Orientacin Procesamiento</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>25</especialidad>
+		<plan>97</plan>
+		<orientacion>2</orientacion>
+		<nombre>Ingeniera Pesquera - Orientacin Procesamiento</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>27</especialidad>
+		<plan>65</plan>
+		<orientacion>0</orientacion>
+		<nombre>Ingeniera Qumica</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>27</especialidad>
+		<plan>75</plan>
+		<orientacion>0</orientacion>
+		<nombre>Ingeniera Qumica</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>27</especialidad>
+		<plan>79</plan>
+		<orientacion>0</orientacion>
+		<nombre>Ingeniera Qumica</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>27</especialidad>
+		<plan>85</plan>
+		<orientacion>0</orientacion>
+		<nombre>Ingeniera Qumica</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>27</especialidad>
+		<plan>95</plan>
+		<orientacion>0</orientacion>
+		<nombre>Ingeniera Qumica</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>27</especialidad>
+		<plan>2023</plan>
+		<orientacion>0</orientacion>
+		<nombre>Ingeniera Qumica</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>27</especialidad>
+		<plan>79</plan>
+		<orientacion>1</orientacion>
+		<nombre>Ingeniera Qumica - Plan 79 Mod.</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>27</especialidad>
+		<plan>95</plan>
+		<orientacion>2</orientacion>
+		<nombre>Ingeniera Qumica - Plan 95 Mod.</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>26</especialidad>
+		<plan>75</plan>
+		<orientacion>0</orientacion>
+		<nombre>Ingeniera Textil</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>26</especialidad>
+		<plan>79</plan>
+		<orientacion>0</orientacion>
+		<nombre>Ingeniera Textil</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>26</especialidad>
+		<plan>85</plan>
+		<orientacion>0</orientacion>
+		<nombre>Ingeniera Textil</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>26</especialidad>
+		<plan>95</plan>
+		<orientacion>0</orientacion>
+		<nombre>Ingeniera Textil</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>26</especialidad>
+		<plan>2017</plan>
+		<orientacion>0</orientacion>
+		<nombre>Ingeniera Textil</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>26</especialidad>
+		<plan>95</plan>
+		<orientacion>1</orientacion>
+		<nombre>Ingeniera Textil - Orientacin Diseo</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>26</especialidad>
+		<plan>95</plan>
+		<orientacion>2</orientacion>
+		<nombre>Ingeniera Textil - Orientacin Diseo - Plan 95 Mod.</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>533</especialidad>
+		<plan>2016</plan>
+		<orientacion>1</orientacion>
+		<nombre>Lic. en Adm. y Gestin en Instituciones de Educacin Superior - Ciclo de Complementacin Curricular</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>94</especialidad>
+		<plan>2003</plan>
+		<orientacion>0</orientacion>
+		<nombre>Licenciatura en Administracin de Empresas</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>94</especialidad>
+		<plan>2010</plan>
+		<orientacion>0</orientacion>
+		<nombre>Licenciatura en Administracin de Empresas</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>94</especialidad>
+		<plan>2003</plan>
+		<orientacion>1</orientacion>
+		<nombre>Licenciatura en Administracin de Empresas - Ciclo de Complementacin Curricular</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>94</especialidad>
+		<plan>2010</plan>
+		<orientacion>1</orientacion>
+		<nombre>Licenciatura en Administracin de Empresas - Ciclo de Complementacin Curricular</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>591</especialidad>
+		<plan>2022</plan>
+		<orientacion>0</orientacion>
+		<nombre>Licenciatura en Administracin de Empresas (EaD) - Ciclo de Complementacin Curricular</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>84</especialidad>
+		<plan>95</plan>
+		<orientacion>0</orientacion>
+		<nombre>Licenciatura en Administracin Rural</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>84</especialidad>
+		<plan>2003</plan>
+		<orientacion>0</orientacion>
+		<nombre>Licenciatura en Administracin Rural</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>84</especialidad>
+		<plan>95</plan>
+		<orientacion>2</orientacion>
+		<nombre>Licenciatura en Administracin Rural - Plan 95 Mod.</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>533</especialidad>
+		<plan>2016</plan>
+		<orientacion>0</orientacion>
+		<nombre>Licenciatura en Administracin y Gestin en Instituciones de Educacin Superior</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>90</especialidad>
+		<plan>2002</plan>
+		<orientacion>0</orientacion>
+		<nombre>Licenciatura en Auditora y Gestin Ambiental</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>558</especialidad>
+		<plan>2019</plan>
+		<orientacion>0</orientacion>
+		<nombre>Licenciatura en Automatizacin y Control - Ciclo de Complementacin Curricular</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>79</especialidad>
+		<plan>99</plan>
+		<orientacion>1</orientacion>
+		<nombre>Licenciatura en Ciencias Aplicadas</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>79</especialidad>
+		<plan>2001</plan>
+		<orientacion>1</orientacion>
+		<nombre>Licenciatura en Ciencias Aplicadas</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>79</especialidad>
+		<plan>99</plan>
+		<orientacion>2</orientacion>
+		<nombre>Licenciatura en Ciencias Aplicadas - Ciclo de Complementacin Curricular</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>79</especialidad>
+		<plan>2001</plan>
+		<orientacion>2</orientacion>
+		<nombre>Licenciatura en Ciencias Aplicadas - Ciclo de Complementacin Curricular</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>98</especialidad>
+		<plan>2005</plan>
+		<orientacion>0</orientacion>
+		<nombre>Licenciatura en Comercializacin</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>98</especialidad>
+		<plan>2009</plan>
+		<orientacion>3</orientacion>
+		<nombre>Licenciatura en Comercializacin</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>98</especialidad>
+		<plan>2005</plan>
+		<orientacion>3</orientacion>
+		<nombre>Licenciatura en Comercializacin - Ciclo de Complementacin Curricular</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>98</especialidad>
+		<plan>2009</plan>
+		<orientacion>4</orientacion>
+		<nombre>Licenciatura en Comercializacin - Ciclo de Complementacin Curricular</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>98</especialidad>
+		<plan>2005</plan>
+		<orientacion>1</orientacion>
+		<nombre>Licenciatura en Comercializacin - Plan 2005 Mod.</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>98</especialidad>
+		<plan>2005</plan>
+		<orientacion>2</orientacion>
+		<nombre>Licenciatura en Comercializacin - Plan 2005 Mod. - Ciclo de Complementacin Curricular</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>560</especialidad>
+		<plan>2019</plan>
+		<orientacion>0</orientacion>
+		<nombre>Licenciatura en Comercio Electrnico - Ciclo de Complementacin Curricular</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>89</especialidad>
+		<plan>2002</plan>
+		<orientacion>0</orientacion>
+		<nombre>Licenciatura en Desarrollo de Economas Regionales</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>89</especialidad>
+		<plan>2002</plan>
+		<orientacion>1</orientacion>
+		<nombre>Licenciatura en Desarrollo de Economas Regionales - Ciclo de Complementacin Curricular</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>202</especialidad>
+		<plan>98</plan>
+		<orientacion>0</orientacion>
+		<nombre>Licenciatura en Educacin Fsica</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>202</especialidad>
+		<plan>98</plan>
+		<orientacion>1</orientacion>
+		<nombre>Licenciatura en Educacin Fsica - Ciclo de Complementacin Curricular</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>99</especialidad>
+		<plan>2005</plan>
+		<orientacion>0</orientacion>
+		<nombre>Licenciatura en Enologa</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>99</especialidad>
+		<plan>2005</plan>
+		<orientacion>1</orientacion>
+		<nombre>Licenciatura en Enologa - Ciclo de Complementacin Curricular</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>381</especialidad>
+		<plan>2008</plan>
+		<orientacion>0</orientacion>
+		<nombre>Licenciatura en Enseanza de Ciencias del Ambiente</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>426</especialidad>
+		<plan>2009</plan>
+		<orientacion>0</orientacion>
+		<nombre>Licenciatura en Enseanza de Ciencias del Ambiente</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>381</especialidad>
+		<plan>2008</plan>
+		<orientacion>1</orientacion>
+		<nombre>Licenciatura en Enseanza de Ciencias del Ambiente - Ciclo de Complementacin Curricular</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>426</especialidad>
+		<plan>2009</plan>
+		<orientacion>1</orientacion>
+		<nombre>Licenciatura en Enseanza de Ciencias del Ambiente - Ciclo de Complementacin Curricular - MD</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>95</especialidad>
+		<plan>2003</plan>
+		<orientacion>0</orientacion>
+		<nombre>Licenciatura en Enseanza de la Fsica</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>95</especialidad>
+		<plan>2003</plan>
+		<orientacion>1</orientacion>
+		<nombre>Licenciatura en Enseanza de la Fsica - Ciclo de Complementacin Curricular</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>96</especialidad>
+		<plan>2004</plan>
+		<orientacion>0</orientacion>
+		<nombre>Licenciatura en Enseanza de la Matemtica</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>96</especialidad>
+		<plan>2004</plan>
+		<orientacion>1</orientacion>
+		<nombre>Licenciatura en Enseanza de la Matemtica - Ciclo de Complementacin Curricular</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>503</especialidad>
+		<plan>2013</plan>
+		<orientacion>0</orientacion>
+		<nombre>Licenciatura en Gestin Ambiental</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>503</especialidad>
+		<plan>2013</plan>
+		<orientacion>1</orientacion>
+		<nombre>Licenciatura en Gestin Ambiental - Ciclo de Complementacin Curricular</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>608</especialidad>
+		<plan>2023</plan>
+		<orientacion>0</orientacion>
+		<nombre>Licenciatura en Gestin Ambiental (EaD) - Ciclo de Complementacin Curricular</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>129</especialidad>
+		<plan>2006</plan>
+		<orientacion>0</orientacion>
+		<nombre>Licenciatura en Gestin de Empresas Tursticas</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>129</especialidad>
+		<plan>2006</plan>
+		<orientacion>1</orientacion>
+		<nombre>Licenciatura en Gestin de Empresas Tursticas - Ciclo de Complementacin Curricular</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>499</especialidad>
+		<plan>2012</plan>
+		<orientacion>0</orientacion>
+		<nombre>Licenciatura en Gestin de Empresas Tursticas y Hoteleras</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>499</especialidad>
+		<plan>2012</plan>
+		<orientacion>1</orientacion>
+		<nombre>Licenciatura en Gestin de Empresas Tursticas y Hoteleras - Ciclo de Complementacin Curricular</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>92</especialidad>
+		<plan>2003</plan>
+		<orientacion>0</orientacion>
+		<nombre>Licenciatura en Gestin de la Produccin Grfica</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>92</especialidad>
+		<plan>2003</plan>
+		<orientacion>1</orientacion>
+		<nombre>Licenciatura en Gestin de la Produccin Grfica - Ciclo de Complementacin Curricular</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>88</especialidad>
+		<plan>2000</plan>
+		<orientacion>0</orientacion>
+		<nombre>Licenciatura en Gestin de Negocios Agroalimentarios</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>88</especialidad>
+		<plan>2000</plan>
+		<orientacion>1</orientacion>
+		<nombre>Licenciatura en Gestin de Negocios Agroalimentarios - Ciclo de Complementacin Curricular</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>519</especialidad>
+		<plan>2015</plan>
+		<orientacion>0</orientacion>
+		<nombre>Licenciatura en Gestin Sustentable de las Agrocadenas</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>519</especialidad>
+		<plan>2015</plan>
+		<orientacion>1</orientacion>
+		<nombre>Licenciatura en Gestin Sustentable de las Agrocadenas - Ciclo de Complementacin Curricular</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>93</especialidad>
+		<plan>2003</plan>
+		<orientacion>0</orientacion>
+		<nombre>Licenciatura en Higiene y Seguridad en el Trabajo</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>93</especialidad>
+		<plan>2006</plan>
+		<orientacion>0</orientacion>
+		<nombre>Licenciatura en Higiene y Seguridad en el Trabajo</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>93</especialidad>
+		<plan>2003</plan>
+		<orientacion>1</orientacion>
+		<nombre>Licenciatura en Higiene y Seguridad en el Trabajo - Ciclo de Complementacin Curricular</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>93</especialidad>
+		<plan>2006</plan>
+		<orientacion>1</orientacion>
+		<nombre>Licenciatura en Higiene y Seguridad en el Trabajo - Ciclo de Complementacin Curricular</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>600</especialidad>
+		<plan>2023</plan>
+		<orientacion>0</orientacion>
+		<nombre>Licenciatura en Higiene y Seguridad en el Trabajo (EaD) - Ciclo de Complementacin Curricular</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>87</especialidad>
+		<plan>2002</plan>
+		<orientacion>0</orientacion>
+		<nombre>Licenciatura en Informtica</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>97</especialidad>
+		<plan>2004</plan>
+		<orientacion>0</orientacion>
+		<nombre>Licenciatura en la Enseanza de la Qumica</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>97</especialidad>
+		<plan>2004</plan>
+		<orientacion>1</orientacion>
+		<nombre>Licenciatura en la Enseanza de la Qumica - Ciclo de Complementacin Curricular</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>201</especialidad>
+		<plan>98</plan>
+		<orientacion>0</orientacion>
+		<nombre>Licenciatura en Lengua Inglesa</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>201</especialidad>
+		<plan>2007</plan>
+		<orientacion>0</orientacion>
+		<nombre>Licenciatura en Lengua Inglesa</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>425</especialidad>
+		<plan>2007</plan>
+		<orientacion>0</orientacion>
+		<nombre>Licenciatura en Lengua Inglesa</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>201</especialidad>
+		<plan>98</plan>
+		<orientacion>1</orientacion>
+		<nombre>Licenciatura en Lengua Inglesa - Ciclo de Complementacin Curricular</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>201</especialidad>
+		<plan>2007</plan>
+		<orientacion>1</orientacion>
+		<nombre>Licenciatura en Lengua Inglesa - Ciclo de Complementacin Curricular</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>425</especialidad>
+		<plan>2007</plan>
+		<orientacion>1</orientacion>
+		<nombre>Licenciatura en Lengua Inglesa - Ciclo de Complementacin Curricular</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>355</especialidad>
+		<plan>2019</plan>
+		<orientacion>0</orientacion>
+		<nombre>Licenciatura en Logstica - Ciclo de Complementacin Curricular</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>602</especialidad>
+		<plan>2023</plan>
+		<orientacion>0</orientacion>
+		<nombre>Licenciatura en Logstica (EaD) - Ciclo de Complementacin Curricular</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>81</especialidad>
+		<plan>82</plan>
+		<orientacion>0</orientacion>
+		<nombre>Licenciatura en Organizacin Industrial</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>81</especialidad>
+		<plan>85</plan>
+		<orientacion>0</orientacion>
+		<nombre>Licenciatura en Organizacin Industrial</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>81</especialidad>
+		<plan>87</plan>
+		<orientacion>0</orientacion>
+		<nombre>Licenciatura en Organizacin Industrial</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>81</especialidad>
+		<plan>95</plan>
+		<orientacion>0</orientacion>
+		<nombre>Licenciatura en Organizacin Industrial</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>526</especialidad>
+		<plan>2016</plan>
+		<orientacion>0</orientacion>
+		<nombre>Licenciatura en Produccin de Bioimgenes</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>526</especialidad>
+		<plan>2016</plan>
+		<orientacion>1</orientacion>
+		<nombre>Licenciatura en Produccin de Bioimgenes - Ciclo de Complementacin Curricular</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>83</especialidad>
+		<plan>75</plan>
+		<orientacion>0</orientacion>
+		<nombre>Licenciatura en Sistemas</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>86</especialidad>
+		<plan>2000</plan>
+		<orientacion>0</orientacion>
+		<nombre>Licenciatura en Sistemas de Informacin (Paran)</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>86</especialidad>
+		<plan>2000</plan>
+		<orientacion>1</orientacion>
+		<nombre>Licenciatura en Sistemas de Informacin (Villa Mara)</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>460</especialidad>
+		<plan>2011</plan>
+		<orientacion>0</orientacion>
+		<nombre>Licenciatura en Tecnologa Aplicada a la Seguridad</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>460</especialidad>
+		<plan>2011</plan>
+		<orientacion>1</orientacion>
+		<nombre>Licenciatura en Tecnologa Aplicada a la Seguridad - Ciclo de Complementacin Curricular</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>85</especialidad>
+		<plan>99</plan>
+		<orientacion>0</orientacion>
+		<nombre>Licenciatura en Tecnologa Educativa</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>85</especialidad>
+		<plan>2016</plan>
+		<orientacion>0</orientacion>
+		<nombre>Licenciatura en Tecnologa Educativa</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>85</especialidad>
+		<plan>99</plan>
+		<orientacion>1</orientacion>
+		<nombre>Licenciatura en Tecnologa Educativa - Ciclo de Complementacin Curricular</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>85</especialidad>
+		<plan>2016</plan>
+		<orientacion>1</orientacion>
+		<nombre>Licenciatura en Tecnologa Educativa - Ciclo de Complementacin Curricular</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>85</especialidad>
+		<plan>2019</plan>
+		<orientacion>1</orientacion>
+		<nombre>Licenciatura en Tecnologa Educativa - Ciclo de Complementacin Curricular</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>282</especialidad>
+		<plan>99</plan>
+		<orientacion>0</orientacion>
+		<nombre>Licenciatura en Tecnologa Educativa(EaD)</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>282</especialidad>
+		<plan>2017</plan>
+		<orientacion>0</orientacion>
+		<nombre>Licenciatura en Tecnologa Educativa(EaD)</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>282</especialidad>
+		<plan>99</plan>
+		<orientacion>1</orientacion>
+		<nombre>Licenciatura en Tecnologa Educativa(EaD) - Ciclo de Complementacin Curricular</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>282</especialidad>
+		<plan>2017</plan>
+		<orientacion>1</orientacion>
+		<nombre>Licenciatura en Tecnologa Educativa(EaD) - Ciclo de Complementacin Curricular</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>91</especialidad>
+		<plan>2003</plan>
+		<orientacion>0</orientacion>
+		<nombre>Licenciatura en Tecnologa Mdica</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>91</especialidad>
+		<plan>2014</plan>
+		<orientacion>0</orientacion>
+		<nombre>Licenciatura en Tecnologa Mdica</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>91</especialidad>
+		<plan>2003</plan>
+		<orientacion>1</orientacion>
+		<nombre>Licenciatura en Tecnologa Mdica - Ciclo de Complementacin Curricular</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>91</especialidad>
+		<plan>2014</plan>
+		<orientacion>1</orientacion>
+		<nombre>Licenciatura en Tecnologa Mdica - Ciclo de Complementacin Curricular</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>559</especialidad>
+		<plan>2019</plan>
+		<orientacion>0</orientacion>
+		<nombre>Licenciatura en Tecnologas Inclusivas en Educacin - Ciclo de Complementacin Curricular</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>592</especialidad>
+		<plan>2022</plan>
+		<orientacion>0</orientacion>
+		<nombre>Licenciatura en Tecnologas Inclusivas en Educacin (EaD) - Ciclo de Complementacin Curricular</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>101</especialidad>
+		<plan>2003</plan>
+		<orientacion>0</orientacion>
+		<nombre>Maestra en Administracin de Negocios</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>101</especialidad>
+		<plan>2014</plan>
+		<orientacion>0</orientacion>
+		<nombre>Maestra en Administracin de Negocios</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>101</especialidad>
+		<plan>98</plan>
+		<orientacion>2</orientacion>
+		<nombre>Maestra en Administracin de Negocios - Orientacin Administracin Empresarial</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>101</especialidad>
+		<plan>98</plan>
+		<orientacion>0</orientacion>
+		<nombre>Maestra en Administracin de Negocios - Orientacin Gestin Industrial</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>569</especialidad>
+		<plan>2019</plan>
+		<orientacion>0</orientacion>
+		<nombre>Maestra en Ciencia Regional e Impacto Ambiental</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>166</especialidad>
+		<plan>2000</plan>
+		<orientacion>0</orientacion>
+		<nombre>Maestra en Ciencias de la Computacin con Orientacin Bases de Datos</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>166</especialidad>
+		<plan>2010</plan>
+		<orientacion>0</orientacion>
+		<nombre>Maestra en Ciencias de la Computacin con Orientacin Bases de Datos</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>212</especialidad>
+		<plan>2003</plan>
+		<orientacion>0</orientacion>
+		<nombre>Maestra en Desarrollo Sustentable del Hbitat Humano</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>212</especialidad>
+		<plan>2010</plan>
+		<orientacion>0</orientacion>
+		<nombre>Maestra en Desarrollo Sustentable del Hbitat Humano</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>410</especialidad>
+		<plan>2009</plan>
+		<orientacion>0</orientacion>
+		<nombre>Maestra en Desarrollo Territorial</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>410</especialidad>
+		<plan>2017</plan>
+		<orientacion>0</orientacion>
+		<nombre>Maestra en Desarrollo Territorial</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>103</especialidad>
+		<plan>96</plan>
+		<orientacion>0</orientacion>
+		<nombre>Maestra en Docencia Universitaria</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>103</especialidad>
+		<plan>99</plan>
+		<orientacion>0</orientacion>
+		<nombre>Maestra en Docencia Universitaria</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>103</especialidad>
+		<plan>2013</plan>
+		<orientacion>0</orientacion>
+		<nombre>Maestra en Docencia Universitaria</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>450</especialidad>
+		<plan>2010</plan>
+		<orientacion>0</orientacion>
+		<nombre>Maestra en Energas Renovables Mencin Biomasa</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>450</especialidad>
+		<plan>2015</plan>
+		<orientacion>0</orientacion>
+		<nombre>Maestra en Energas Renovables Mencin Biomasa</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>450</especialidad>
+		<plan>2015</plan>
+		<orientacion>1</orientacion>
+		<nombre>Maestra en Energas Renovables Mencin Biomasa - Ord. 1972</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>448</especialidad>
+		<plan>2010</plan>
+		<orientacion>0</orientacion>
+		<nombre>Maestra en Energas Renovables Mencin Elica</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>448</especialidad>
+		<plan>2015</plan>
+		<orientacion>0</orientacion>
+		<nombre>Maestra en Energas Renovables Mencin Elica</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>448</especialidad>
+		<plan>2015</plan>
+		<orientacion>1</orientacion>
+		<nombre>Maestra en Energas Renovables Mencin Elica - Ord. 1972</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>449</especialidad>
+		<plan>2010</plan>
+		<orientacion>0</orientacion>
+		<nombre>Maestra en Energas Renovables Mencin Solar</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>449</especialidad>
+		<plan>2015</plan>
+		<orientacion>0</orientacion>
+		<nombre>Maestra en Energas Renovables Mencin Solar</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>449</especialidad>
+		<plan>2015</plan>
+		<orientacion>1</orientacion>
+		<nombre>Maestra en Energas Renovables Mencin Solar - Ord. 1972</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>213</especialidad>
+		<plan>2004</plan>
+		<orientacion>0</orientacion>
+		<nombre>Maestra en Gestin de la Educacin Superior</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>568</especialidad>
+		<plan>2019</plan>
+		<orientacion>0</orientacion>
+		<nombre>Maestra en Gestin de Residuos Slidos Urbanos</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>384</especialidad>
+		<plan>2008</plan>
+		<orientacion>0</orientacion>
+		<nombre>Maestra en Gestin de Sistemas Agroalimentarios</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>570</especialidad>
+		<plan>2019</plan>
+		<orientacion>0</orientacion>
+		<nombre>Maestra en Informtica Industrial, mencin Sistemas Fsico-cibernticos Industriales</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>570</especialidad>
+		<plan>2019</plan>
+		<orientacion>1</orientacion>
+		<nombre>Maestra en Informtica Industrial, mencin Sistemas Fsicos Cibernticos Industriales (Interinst.)</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>110</especialidad>
+		<plan>97</plan>
+		<orientacion>0</orientacion>
+		<nombre>Maestra en Ingeniera Acstica y de Sonido</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>105</especialidad>
+		<plan>96</plan>
+		<orientacion>0</orientacion>
+		<nombre>Maestra en Ingeniera Ambiental</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>105</especialidad>
+		<plan>98</plan>
+		<orientacion>0</orientacion>
+		<nombre>Maestra en Ingeniera Ambiental</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>105</especialidad>
+		<plan>2006</plan>
+		<orientacion>0</orientacion>
+		<nombre>Maestra en Ingeniera Ambiental</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>105</especialidad>
+		<plan>2014</plan>
+		<orientacion>0</orientacion>
+		<nombre>Maestra en Ingeniera Ambiental</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>520</especialidad>
+		<plan>2015</plan>
+		<orientacion>0</orientacion>
+		<nombre>Maestra en Ingeniera Bioenergtica</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>104</especialidad>
+		<plan>96</plan>
+		<orientacion>0</orientacion>
+		<nombre>Maestra en Ingeniera en Calidad</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>104</especialidad>
+		<plan>2004</plan>
+		<orientacion>0</orientacion>
+		<nombre>Maestra en Ingeniera en Calidad</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>104</especialidad>
+		<plan>2012</plan>
+		<orientacion>0</orientacion>
+		<nombre>Maestra en Ingeniera en Calidad</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>104</especialidad>
+		<plan>2012</plan>
+		<orientacion>2</orientacion>
+		<nombre>Maestra en Ingeniera en Calidad - Ord. 1971</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>106</especialidad>
+		<plan>96</plan>
+		<orientacion>0</orientacion>
+		<nombre>Maestra en Ingeniera en Control Automtico</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>106</especialidad>
+		<plan>2003</plan>
+		<orientacion>0</orientacion>
+		<nombre>Maestra en Ingeniera en Control Automtico</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>106</especialidad>
+		<plan>2008</plan>
+		<orientacion>0</orientacion>
+		<nombre>Maestra en Ingeniera en Control Automtico</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>106</especialidad>
+		<plan>2008</plan>
+		<orientacion>1</orientacion>
+		<nombre>Maestra en Ingeniera en Control Automtico - Ord. 2002</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>116</especialidad>
+		<plan>2000</plan>
+		<orientacion>0</orientacion>
+		<nombre>Maestra en Ingeniera en Sistemas de Informacin</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>116</especialidad>
+		<plan>2012</plan>
+		<orientacion>0</orientacion>
+		<nombre>Maestra en Ingeniera en Sistemas de Informacin</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>116</especialidad>
+		<plan>2012</plan>
+		<orientacion>1</orientacion>
+		<nombre>Maestra en Ingeniera en Sistemas de Informacin - Ord. 1969</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>131</especialidad>
+		<plan>2006</plan>
+		<orientacion>0</orientacion>
+		<nombre>Maestra en Ingeniera Estructural</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>131</especialidad>
+		<plan>2014</plan>
+		<orientacion>0</orientacion>
+		<nombre>Maestra en Ingeniera Estructural</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>131</especialidad>
+		<plan>2020</plan>
+		<orientacion>0</orientacion>
+		<nombre>Maestra en Ingeniera Estructural</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>424</especialidad>
+		<plan>2009</plan>
+		<orientacion>0</orientacion>
+		<nombre>Maestra en Ingeniera Estructural Mecnica</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>108</especialidad>
+		<plan>97</plan>
+		<orientacion>0</orientacion>
+		<nombre>Maestra en Ingeniera Estructural Sismorresistente</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>108</especialidad>
+		<plan>2005</plan>
+		<orientacion>0</orientacion>
+		<nombre>Maestra en Ingeniera Estructural Sismorresistente</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>108</especialidad>
+		<plan>2012</plan>
+		<orientacion>0</orientacion>
+		<nombre>Maestra en Ingeniera Estructural Sismorresistente</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>108</especialidad>
+		<plan>2021</plan>
+		<orientacion>0</orientacion>
+		<nombre>Maestra en Ingeniera Estructural Sismorresistente</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>528</especialidad>
+		<plan>2015</plan>
+		<orientacion>0</orientacion>
+		<nombre>Maestra en Ingeniera Vial</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>521</especialidad>
+		<plan>2015</plan>
+		<orientacion>0</orientacion>
+		<nombre>Maestra en Instrumentos Satelitales</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>534</especialidad>
+		<plan>2015</plan>
+		<orientacion>0</orientacion>
+		<nombre>Maestra en Inteligencia de Negocios</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>589</especialidad>
+		<plan>2018</plan>
+		<orientacion>0</orientacion>
+		<nombre>Maestra en Mtodos Numricos y Mecnica Computacional, Mencin Dinmica Estructural</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>589</especialidad>
+		<plan>2018</plan>
+		<orientacion>2</orientacion>
+		<nombre>Maestra en Mtodos Numricos y Mecnica Computacional, Mencin Mecnica de los Fludos</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>589</especialidad>
+		<plan>2018</plan>
+		<orientacion>1</orientacion>
+		<nombre>Maestra en Mtodos Numricos y Mecnica Computacional, Mencin Mecnica del Slido</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>548</especialidad>
+		<plan>2017</plan>
+		<orientacion>0</orientacion>
+		<nombre>Maestra en Minera de Datos</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>548</especialidad>
+		<plan>2017</plan>
+		<orientacion>1</orientacion>
+		<nombre>Maestra en Minera de Datos (EaD)</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>497</especialidad>
+		<plan>2012</plan>
+		<orientacion>0</orientacion>
+		<nombre>Maestra en Planificacin y Gestin de la Ingeniera Urbana</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>588</especialidad>
+		<plan>2021</plan>
+		<orientacion>0</orientacion>
+		<nombre>Maestra en Planificacin y Operaciones Industriales</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>391</especialidad>
+		<plan>2008</plan>
+		<orientacion>0</orientacion>
+		<nombre>Maestra en Procesos Biotecnolgicos</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>391</especialidad>
+		<plan>2017</plan>
+		<orientacion>0</orientacion>
+		<nombre>Maestra en Procesos Biotecnolgicos</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>112</especialidad>
+		<plan>99</plan>
+		<orientacion>0</orientacion>
+		<nombre>Maestra en Radioqumica</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>111</especialidad>
+		<plan>98</plan>
+		<orientacion>0</orientacion>
+		<nombre>Maestra en Reactores Nucleares</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>587</especialidad>
+		<plan>2021</plan>
+		<orientacion>0</orientacion>
+		<nombre>Maestra en Redes de Datos</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>587</especialidad>
+		<plan>2021</plan>
+		<orientacion>1</orientacion>
+		<nombre>Maestra en Redes de Datos (EaD)</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>109</especialidad>
+		<plan>98</plan>
+		<orientacion>0</orientacion>
+		<nombre>Maestra en Siderurgia</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>127</especialidad>
+		<plan>2004</plan>
+		<orientacion>0</orientacion>
+		<nombre>Maestra en Sim. y Mec.Comp.Aplicada al Diseo en Ing.</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>115</especialidad>
+		<plan>99</plan>
+		<orientacion>2</orientacion>
+		<nombre>Maestra en Tecnologa Aeroespacial - Orient. Telecomunicaciones y Electrnica de Sistemas Espaciale</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>115</especialidad>
+		<plan>99</plan>
+		<orientacion>0</orientacion>
+		<nombre>Maestra en Tecnologa Aeroespacial - Orientacin Mecnica Espacial</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>107</especialidad>
+		<plan>96</plan>
+		<orientacion>0</orientacion>
+		<nombre>Maestra en Tecnologa de los Alimentos</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>107</especialidad>
+		<plan>2005</plan>
+		<orientacion>0</orientacion>
+		<nombre>Maestra en Tecnologa de los Alimentos</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>107</especialidad>
+		<plan>2013</plan>
+		<orientacion>0</orientacion>
+		<nombre>Maestra en Tecnologa de los Alimentos</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>107</especialidad>
+		<plan>2013</plan>
+		<orientacion>1</orientacion>
+		<nombre>Maestra en Tecnologa de los Alimentos - Ord. 2004</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>530</especialidad>
+		<plan>2014</plan>
+		<orientacion>0</orientacion>
+		<nombre>Maestra en Tecnologa Satelital con Mencin Sistemas de Avinica</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>529</especialidad>
+		<plan>2014</plan>
+		<orientacion>0</orientacion>
+		<nombre>Maestra en Tecnologa Satelital con mencin Sistemas Mecnicos</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>167</especialidad>
+		<plan>96</plan>
+		<orientacion>0</orientacion>
+		<nombre>Maestra en Tecnologas Energticas</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>218</especialidad>
+		<plan>2007</plan>
+		<orientacion>3</orientacion>
+		<nombre>Maestra en Transporte - Mencin Areo - Ord. 1165</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>218</especialidad>
+		<plan>2017</plan>
+		<orientacion>3</orientacion>
+		<nombre>Maestra en Transporte - Mencin Areo - Ord. 1588</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>218</especialidad>
+		<plan>2017</plan>
+		<orientacion>0</orientacion>
+		<nombre>Maestra en Transporte - Mencin Carretero - Ord. 1588</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>218</especialidad>
+		<plan>2007</plan>
+		<orientacion>0</orientacion>
+		<nombre>Maestra en Transporte - Mencin Carretero - Ord.1165</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>218</especialidad>
+		<plan>2007</plan>
+		<orientacion>1</orientacion>
+		<nombre>Maestra en Transporte - Mencin Ferroviario - Ord. 1165</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>218</especialidad>
+		<plan>2017</plan>
+		<orientacion>1</orientacion>
+		<nombre>Maestra en Transporte - Mencin Ferroviario - Ord. 1588</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>218</especialidad>
+		<plan>2007</plan>
+		<orientacion>2</orientacion>
+		<nombre>Maestra en Transporte - Mencin Fluvio-Martimo - Ord. 1165</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>218</especialidad>
+		<plan>2017</plan>
+		<orientacion>2</orientacion>
+		<nombre>Maestra en Transporte - Mencin Fluvio-Martimo - Ord. 1588</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>114</especialidad>
+		<plan>97</plan>
+		<orientacion>0</orientacion>
+		<nombre>Maestra en Transporte y Logstica</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>779</especialidad>
+		<plan>2011</plan>
+		<orientacion>0</orientacion>
+		<nombre>Profesor de Ingls para la Educacin Inicial y Primaria</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>68</especialidad>
+		<plan>2007</plan>
+		<orientacion>6</orientacion>
+		<nombre>Profesor en Disciplinas Industriales Especialidad Fsica y Fsica Aplicada</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>68</especialidad>
+		<plan>2007</plan>
+		<orientacion>5</orientacion>
+		<nombre>Profesor en Disciplinas Industriales Especialidad Qumica y Qumica Aplicada</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>72</especialidad>
+		<plan>98</plan>
+		<orientacion>0</orientacion>
+		<nombre>Profesorado de Biologa</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>72</especialidad>
+		<plan>2000</plan>
+		<orientacion>0</orientacion>
+		<nombre>Profesorado de Biologa</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>77</especialidad>
+		<plan>98</plan>
+		<orientacion>0</orientacion>
+		<nombre>Profesorado de Historia</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>71</especialidad>
+		<plan>98</plan>
+		<orientacion>0</orientacion>
+		<nombre>Profesorado de Ingls</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>71</especialidad>
+		<plan>2000</plan>
+		<orientacion>0</orientacion>
+		<nombre>Profesorado de Ingls</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>69</especialidad>
+		<plan>2007</plan>
+		<orientacion>0</orientacion>
+		<nombre>Profesorado de Ingls e Ingls Tcnico</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>69</especialidad>
+		<plan>2007</plan>
+		<orientacion>1</orientacion>
+		<nombre>Profesorado de Ingls para el Primer y Segundo Ciclo de la EGB</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>75</especialidad>
+		<plan>98</plan>
+		<orientacion>0</orientacion>
+		<nombre>Profesorado de Lengua</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>75</especialidad>
+		<plan>2000</plan>
+		<orientacion>0</orientacion>
+		<nombre>Profesorado de Lengua</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>74</especialidad>
+		<plan>98</plan>
+		<orientacion>0</orientacion>
+		<nombre>Profesorado de Matemtica</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>74</especialidad>
+		<plan>2000</plan>
+		<orientacion>0</orientacion>
+		<nombre>Profesorado de Matemtica</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>73</especialidad>
+		<plan>98</plan>
+		<orientacion>0</orientacion>
+		<nombre>Profesorado de Psicologa</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>73</especialidad>
+		<plan>2000</plan>
+		<orientacion>0</orientacion>
+		<nombre>Profesorado de Psicologa</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>76</especialidad>
+		<plan>98</plan>
+		<orientacion>0</orientacion>
+		<nombre>Profesorado de Tecnologa</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>68</especialidad>
+		<plan>2007</plan>
+		<orientacion>0</orientacion>
+		<nombre>PROFESORADO EN DISCIPLINAS INDUSTRIALES  en la Especialidad de su ttulo de ingreso - CICLO -</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>780</especialidad>
+		<plan>2007</plan>
+		<orientacion>0</orientacion>
+		<nombre>PROFESORADO EN DOCENCIA SUPERIOR - CICLO DE PROFESORADO -</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>70</especialidad>
+		<plan>2007</plan>
+		<orientacion>0</orientacion>
+		<nombre>Profesorado en Matemtica y Matemtica Aplicada</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>220</especialidad>
+		<plan>2001</plan>
+		<orientacion>1</orientacion>
+		<nombre>Profesorado Universitario en Tecnologa</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>4</especialidad>
+		<plan>77</plan>
+		<orientacion>1</orientacion>
+		<nombre>Tecnicatura en Programacin</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>783</especialidad>
+		<plan>2007</plan>
+		<orientacion>0</orientacion>
+		<nombre>Tecnicatura en Radiologa</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>62</especialidad>
+		<plan>2006</plan>
+		<orientacion>0</orientacion>
+		<nombre>Tecnicatura Sup. en Mecnica, Automotores y Mqs.Trmicas</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>47</especialidad>
+		<plan>2003</plan>
+		<orientacion>0</orientacion>
+		<nombre>Tecnicatura Sup.en Energa Renovable y Medio Ambiente</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>124</especialidad>
+		<plan>2005</plan>
+		<orientacion>0</orientacion>
+		<nombre>Tecnicatura Superior en Acuicultura y Procesamiento Pesquero</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>125</especialidad>
+		<plan>2005</plan>
+		<orientacion>0</orientacion>
+		<nombre>Tecnicatura Superior en Administracin</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>498</especialidad>
+		<plan>2012</plan>
+		<orientacion>1</orientacion>
+		<nombre>Tecnicatura Superior en Administracin (EaD)</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>298</especialidad>
+		<plan>2006</plan>
+		<orientacion>0</orientacion>
+		<nombre>Tecnicatura Superior en Administracin Portuaria</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>48</especialidad>
+		<plan>2007</plan>
+		<orientacion>0</orientacion>
+		<nombre>Tecnicatura Superior en Administracin y Gestin en Instituciones de Educacin Superior</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>63</especialidad>
+		<plan>94</plan>
+		<orientacion>0</orientacion>
+		<nombre>Tecnicatura Superior en Automa</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>63</especialidad>
+		<plan>2006</plan>
+		<orientacion>0</orientacion>
+		<nombre>Tecnicatura Superior en Automatizacin y Robtica</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>123</especialidad>
+		<plan>2005</plan>
+		<orientacion>1</orientacion>
+		<nombre>Tecnicatura Superior en Bromatologa y Medio Ambiente</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>132</especialidad>
+		<plan>2007</plan>
+		<orientacion>1</orientacion>
+		<nombre>Tecnicatura Superior en Celulosa y Papel</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>61</especialidad>
+		<plan>2006</plan>
+		<orientacion>0</orientacion>
+		<nombre>Tecnicatura Superior en Control Elctrico y Accionamientos</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>134</especialidad>
+		<plan>2007</plan>
+		<orientacion>1</orientacion>
+		<nombre>Tecnicatura Superior en Desarrollo Local y Regional</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>138</especialidad>
+		<plan>2011</plan>
+		<orientacion>0</orientacion>
+		<nombre>Tecnicatura Superior en Diseo Industrial</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>67</especialidad>
+		<plan>2007</plan>
+		<orientacion>0</orientacion>
+		<nombre>Tecnicatura Superior en Diseo Tecnolgico</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>64</especialidad>
+		<plan>2006</plan>
+		<orientacion>0</orientacion>
+		<nombre>Tecnicatura Superior en Electrnica</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>544</especialidad>
+		<plan>2017</plan>
+		<orientacion>1</orientacion>
+		<nombre>Tecnicatura Superior en Energas Sustentables</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>121</especialidad>
+		<plan>2004</plan>
+		<orientacion>1</orientacion>
+		<nombre>Tecnicatura Superior en Enologa</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>121</especialidad>
+		<plan>2016</plan>
+		<orientacion>1</orientacion>
+		<nombre>Tecnicatura Superior en Enologa</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>137</especialidad>
+		<plan>2007</plan>
+		<orientacion>0</orientacion>
+		<nombre>Tecnicatura Superior en Equipos Viales, Mineros y Agrcolas</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>523</especialidad>
+		<plan>2015</plan>
+		<orientacion>1</orientacion>
+		<nombre>Tecnicatura Superior en Fabricacin de Maquinaria Agrcola</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>66</especialidad>
+		<plan>2006</plan>
+		<orientacion>0</orientacion>
+		<nombre>Tecnicatura Superior en Fsica y Fsica Aplicada</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>543</especialidad>
+		<plan>2016</plan>
+		<orientacion>1</orientacion>
+		<nombre>Tecnicatura Superior en Gestin Aeronutica</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>46</especialidad>
+		<plan>2003</plan>
+		<orientacion>0</orientacion>
+		<nombre>Tecnicatura Superior en Gestin de Empresas Hoteleras</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>46</especialidad>
+		<plan>2016</plan>
+		<orientacion>0</orientacion>
+		<nombre>Tecnicatura Superior en Gestin de Empresas Hoteleras</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>44</especialidad>
+		<plan>2002</plan>
+		<orientacion>0</orientacion>
+		<nombre>Tecnicatura Superior en Gestin de Empresas Tursticas</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>44</especialidad>
+		<plan>2016</plan>
+		<orientacion>0</orientacion>
+		<nombre>Tecnicatura Superior en Gestin de Empresas Tursticas</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>299</especialidad>
+		<plan>2005</plan>
+		<orientacion>1</orientacion>
+		<nombre>Tecnicatura Superior en Gestin de la Calidad</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>140</especialidad>
+		<plan>2011</plan>
+		<orientacion>1</orientacion>
+		<nombre>Tecnicatura Superior en Gestin de la Industria Automotriz</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>43</especialidad>
+		<plan>2001</plan>
+		<orientacion>0</orientacion>
+		<nombre>Tecnicatura Superior en Gestin de Mantenimiento en Instituciones de Salud</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>492</especialidad>
+		<plan>2012</plan>
+		<orientacion>0</orientacion>
+		<nombre>Tecnicatura Superior en Gestin de Tecnologas Agropecuarias</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>119</especialidad>
+		<plan>2003</plan>
+		<orientacion>0</orientacion>
+		<nombre>Tecnicatura Superior en Higiene y Seguridad en el Trabajo</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>216</especialidad>
+		<plan>2007</plan>
+		<orientacion>0</orientacion>
+		<nombre>Tecnicatura Superior en Higiene y Seguridad en el Trabajo(EaD)</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>32</especialidad>
+		<plan>95</plan>
+		<orientacion>0</orientacion>
+		<nombre>Tecnicatura Superior en Industrias Alimentarias</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>60</especialidad>
+		<plan>94</plan>
+		<orientacion>0</orientacion>
+		<nombre>Tecnicatura Superior en Informtica Aplicada</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>60</especialidad>
+		<plan>2006</plan>
+		<orientacion>0</orientacion>
+		<nombre>Tecnicatura Superior en Informtica Aplicada</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>786</especialidad>
+		<plan>2011</plan>
+		<orientacion>0</orientacion>
+		<nombre>Tecnicatura Superior en Interiorismo</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>515</especialidad>
+		<plan>2015</plan>
+		<orientacion>1</orientacion>
+		<nombre>Tecnicatura Superior en Logstica</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>41</especialidad>
+		<plan>2001</plan>
+		<orientacion>0</orientacion>
+		<nombre>Tecnicatura Superior en Mantenimiento Industrial</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>490</especialidad>
+		<plan>2011</plan>
+		<orientacion>0</orientacion>
+		<nombre>Tecnicatura Superior en Material Rodante Ferroviario</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>42</especialidad>
+		<plan>2001</plan>
+		<orientacion>0</orientacion>
+		<nombre>Tecnicatura Superior en Mecatrnica</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>139</especialidad>
+		<plan>2011</plan>
+		<orientacion>1</orientacion>
+		<nombre>Tecnicatura Superior en Mediciones Fiscales y Operativas de Hidrocarburos</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>524</especialidad>
+		<plan>2015</plan>
+		<orientacion>1</orientacion>
+		<nombre>Tecnicatura Superior en Mediciones Fiscales y Operativas de Hidrocarburos(EaD)</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>512</especialidad>
+		<plan>2014</plan>
+		<orientacion>1</orientacion>
+		<nombre>Tecnicatura Superior en Medio Ambiente Antrtico y Subantrtico</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>297</especialidad>
+		<plan>2006</plan>
+		<orientacion>1</orientacion>
+		<nombre>Tecnicatura Superior en Medio Ambiente Marino Costero</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>491</especialidad>
+		<plan>2011</plan>
+		<orientacion>0</orientacion>
+		<nombre>Tecnicatura Superior en Metalurgia</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>545</especialidad>
+		<plan>2017</plan>
+		<orientacion>1</orientacion>
+		<nombre>Tecnicatura Superior en Metrologa</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>531</especialidad>
+		<plan>2015</plan>
+		<orientacion>1</orientacion>
+		<nombre>Tecnicatura Superior en Minera</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>136</especialidad>
+		<plan>2010</plan>
+		<orientacion>0</orientacion>
+		<nombre>Tecnicatura Superior en Moldes, Matrices y Dispositivos</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>118</especialidad>
+		<plan>2002</plan>
+		<orientacion>0</orientacion>
+		<nombre>Tecnicatura Superior en Negociacin de Bienes</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>781</especialidad>
+		<plan>2006</plan>
+		<orientacion>0</orientacion>
+		<nombre>Tecnicatura Superior en Obras Viales</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>141</especialidad>
+		<plan>2010</plan>
+		<orientacion>1</orientacion>
+		<nombre>Tcnicatura Superior en Operacin y Mantenimiento de Redes Elctricas</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>527</especialidad>
+		<plan>2015</plan>
+		<orientacion>1</orientacion>
+		<nombre>Tecnicatura Superior en Perforacin y Terminacin de Pozos Petroleros</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>126</especialidad>
+		<plan>2005</plan>
+		<orientacion>0</orientacion>
+		<nombre>Tecnicatura Superior en Periodismo</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>782</especialidad>
+		<plan>2007</plan>
+		<orientacion>0</orientacion>
+		<nombre>Tecnicatura Superior en Prcticas Cardiolgicas</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>493</especialidad>
+		<plan>2012</plan>
+		<orientacion>1</orientacion>
+		<nombre>Tecnicatura Superior en Procedimientos y Tecnologas Ambientales</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>532</especialidad>
+		<plan>2015</plan>
+		<orientacion>1</orientacion>
+		<nombre>Tecnicatura Superior en Procedimientos y Tecnologas Ambientales</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>58</especialidad>
+		<plan>2005</plan>
+		<orientacion>0</orientacion>
+		<nombre>Tecnicatura Superior en Procesos Industriales</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>135</especialidad>
+		<plan>2008</plan>
+		<orientacion>0</orientacion>
+		<nombre>Tecnicatura Superior en Procesos Productivos del Caucho</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>489</especialidad>
+		<plan>2011</plan>
+		<orientacion>0</orientacion>
+		<nombre>Tecnicatura Superior en Produccin Textil</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>34</especialidad>
+		<plan>95</plan>
+		<orientacion>0</orientacion>
+		<nombre>Tecnicatura Superior en Programacin</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>34</especialidad>
+		<plan>2003</plan>
+		<orientacion>0</orientacion>
+		<nombre>Tcnicatura Superior en Programacin</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>65</especialidad>
+		<plan>2006</plan>
+		<orientacion>0</orientacion>
+		<nombre>Tecnicatura Superior en Qumica y Qumica Aplicada</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>133</especialidad>
+		<plan>2005</plan>
+		<orientacion>1</orientacion>
+		<nombre>Tecnicatura Superior en Recupero Crediticio</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>215</especialidad>
+		<plan>2006</plan>
+		<orientacion>1</orientacion>
+		<nombre>Tecnicatura Superior en Seguridad Urbana y Portuaria</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>122</especialidad>
+		<plan>2005</plan>
+		<orientacion>1</orientacion>
+		<nombre>Tecnicatura Superior en Seguridad Vial</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>122</especialidad>
+		<plan>2010</plan>
+		<orientacion>1</orientacion>
+		<nombre>Tecnicatura Superior en Seguridad Vial</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>120</especialidad>
+		<plan>2003</plan>
+		<orientacion>1</orientacion>
+		<nombre>Tecnicatura Superior en Sistemas Informticos</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>59</especialidad>
+		<plan>2003</plan>
+		<orientacion>0</orientacion>
+		<nombre>Tecnicatura Superior en Supervisin de Procesos Industriales con Orientacin en Petroqumica</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>117</especialidad>
+		<plan>2001</plan>
+		<orientacion>0</orientacion>
+		<nombre>Tecnicatura Superior en Tecnologas de la Informacin</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>117</especialidad>
+		<plan>2017</plan>
+		<orientacion>0</orientacion>
+		<nombre>Tecnicatura Superior en Tecnologas de la Informacin (EaD)</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>505</especialidad>
+		<plan>2010</plan>
+		<orientacion>1</orientacion>
+		<nombre>Tecnicatura Superior en Telecomunicaciones</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>496</especialidad>
+		<plan>2012</plan>
+		<orientacion>1</orientacion>
+		<nombre>Tecnicatura Superior en Yacimientos Hidrocarburferos No Convencionales</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>525</especialidad>
+		<plan>2015</plan>
+		<orientacion>1</orientacion>
+		<nombre>Tecnicatura Superior en Yacimientos Hidrocarburferos No Convencionales (EaD)</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>609</especialidad>
+		<plan>2024</plan>
+		<orientacion>0</orientacion>
+		<nombre>Tecnicatura Universitaria en Acompaamiento Teraputico</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>124</especialidad>
+		<plan>2005</plan>
+		<orientacion>1</orientacion>
+		<nombre>Tecnicatura Universitaria en Acuicultura y Procesamiento Pesquero</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>125</especialidad>
+		<plan>2005</plan>
+		<orientacion>1</orientacion>
+		<nombre>Tecnicatura Universitaria en Administracin</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>498</especialidad>
+		<plan>2012</plan>
+		<orientacion>2</orientacion>
+		<nombre>Tecnicatura Universitaria en Administracin (EaD)</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>298</especialidad>
+		<plan>2006</plan>
+		<orientacion>1</orientacion>
+		<nombre>Tecnicatura Universitaria en Administracin Portuaria</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>48</especialidad>
+		<plan>2007</plan>
+		<orientacion>1</orientacion>
+		<nombre>Tecnicatura Universitaria en Administracin y Gestin en Instituciones de Educacin Superior</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>599</especialidad>
+		<plan>2023</plan>
+		<orientacion>1</orientacion>
+		<nombre>Tecnicatura Universitaria en Biomedicina</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>123</especialidad>
+		<plan>2005</plan>
+		<orientacion>2</orientacion>
+		<nombre>Tecnicatura Universitaria en Bromatologa y Medio Ambiente</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>132</especialidad>
+		<plan>2007</plan>
+		<orientacion>2</orientacion>
+		<nombre>Tecnicatura Universitaria en Celulosa y Papel</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>561</especialidad>
+		<plan>2019</plan>
+		<orientacion>0</orientacion>
+		<nombre>Tecnicatura Universitaria en Ciudades Inteligentes</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>593</especialidad>
+		<plan>2023</plan>
+		<orientacion>0</orientacion>
+		<nombre>Tecnicatura Universitaria en Ciudades Inteligentes (EaD)</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>594</especialidad>
+		<plan>2023</plan>
+		<orientacion>0</orientacion>
+		<nombre>Tecnicatura Universitaria en Comercio Electrnico y Marketing Digital (EaD)</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>585</especialidad>
+		<plan>2021</plan>
+		<orientacion>0</orientacion>
+		<nombre>Tecnicatura Universitaria en Contabilidad y Tributacin</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>134</especialidad>
+		<plan>2007</plan>
+		<orientacion>2</orientacion>
+		<nombre>Tecnicatura Universitaria en Desarrollo Local y Regional</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>607</especialidad>
+		<plan>2023</plan>
+		<orientacion>0</orientacion>
+		<nombre>Tecnicatura Universitaria en Desarrollo y Produccin de Videojuegos (EaD)</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>138</especialidad>
+		<plan>2011</plan>
+		<orientacion>1</orientacion>
+		<nombre>Tecnicatura Universitaria en Diseo Industrial</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>47</especialidad>
+		<plan>2003</plan>
+		<orientacion>1</orientacion>
+		<nombre>Tecnicatura Universitaria en Energa Renovable y Medio Ambiente</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>544</especialidad>
+		<plan>2017</plan>
+		<orientacion>2</orientacion>
+		<nombre>Tecnicatura Universitaria en Energas Sustentables</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>121</especialidad>
+		<plan>2004</plan>
+		<orientacion>2</orientacion>
+		<nombre>Tecnicatura Universitaria en Enologa</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>121</especialidad>
+		<plan>2016</plan>
+		<orientacion>2</orientacion>
+		<nombre>Tecnicatura Universitaria en Enologa</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>137</especialidad>
+		<plan>2007</plan>
+		<orientacion>1</orientacion>
+		<nombre>Tecnicatura Universitaria en Equipos Viales, Mineros y Agrcolas</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>523</especialidad>
+		<plan>2015</plan>
+		<orientacion>2</orientacion>
+		<nombre>Tecnicatura Universitaria en Fabricacin de Maquinaria Agrcola</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>543</especialidad>
+		<plan>2016</plan>
+		<orientacion>2</orientacion>
+		<nombre>Tecnicatura Universitaria en Gestin Aeronutica</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>590</especialidad>
+		<plan>2022</plan>
+		<orientacion>0</orientacion>
+		<nombre>Tecnicatura Universitaria en Gestin Aeronutica (EaD)</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>46</especialidad>
+		<plan>2003</plan>
+		<orientacion>1</orientacion>
+		<nombre>Tecnicatura Universitaria en Gestin de Empresas Hoteleras</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>46</especialidad>
+		<plan>2016</plan>
+		<orientacion>1</orientacion>
+		<nombre>Tecnicatura Universitaria en Gestin de Empresas Hoteleras</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>44</especialidad>
+		<plan>2002</plan>
+		<orientacion>1</orientacion>
+		<nombre>Tecnicatura Universitaria en Gestin de Empresas Tursticas</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>44</especialidad>
+		<plan>2016</plan>
+		<orientacion>1</orientacion>
+		<nombre>Tecnicatura Universitaria en Gestin de Empresas Tursticas</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>595</especialidad>
+		<plan>2023</plan>
+		<orientacion>0</orientacion>
+		<nombre>Tecnicatura Universitaria en Gestin de Gobierno Electrnico (EaD)</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>299</especialidad>
+		<plan>2005</plan>
+		<orientacion>2</orientacion>
+		<nombre>Tecnicatura Universitaria en Gestin de la Calidad</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>140</especialidad>
+		<plan>2011</plan>
+		<orientacion>2</orientacion>
+		<nombre>Tecnicatura Universitaria en Gestin de la Industria Automotriz</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>43</especialidad>
+		<plan>2001</plan>
+		<orientacion>1</orientacion>
+		<nombre>Tecnicatura Universitaria en Gestin de Mantenimiento en Instituciones de Salud</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>492</especialidad>
+		<plan>2012</plan>
+		<orientacion>1</orientacion>
+		<nombre>Tecnicatura Universitaria en Gestin de Tecnologas Agropecuarias</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>119</especialidad>
+		<plan>2003</plan>
+		<orientacion>1</orientacion>
+		<nombre>Tecnicatura Universitaria en Higiene y Seguridad en el Trabajo</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>216</especialidad>
+		<plan>2007</plan>
+		<orientacion>1</orientacion>
+		<nombre>Tecnicatura Universitaria en Higiene y Seguridad en el Trabajo(EaD)</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>32</especialidad>
+		<plan>95</plan>
+		<orientacion>1</orientacion>
+		<nombre>Tecnicatura Universitaria en Industrias Alimentarias</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>515</especialidad>
+		<plan>2015</plan>
+		<orientacion>2</orientacion>
+		<nombre>Tecnicatura Universitaria en Logstica</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>604</especialidad>
+		<plan>2023</plan>
+		<orientacion>0</orientacion>
+		<nombre>Tecnicatura Universitaria en Logstica (EaD)</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>41</especialidad>
+		<plan>2001</plan>
+		<orientacion>1</orientacion>
+		<nombre>Tecnicatura Universitaria en Mantenimiento Industrial</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>490</especialidad>
+		<plan>2011</plan>
+		<orientacion>1</orientacion>
+		<nombre>Tecnicatura Universitaria en Material Rodante Ferroviario</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>17</especialidad>
+		<plan>2023</plan>
+		<orientacion>1</orientacion>
+		<nombre>Tecnicatura Universitaria en Mecncia</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>42</especialidad>
+		<plan>2001</plan>
+		<orientacion>1</orientacion>
+		<nombre>Tecnicatura Universitaria en Mecatrnica</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>139</especialidad>
+		<plan>2011</plan>
+		<orientacion>2</orientacion>
+		<nombre>Tecnicatura Universitaria en Mediciones Fiscales y Operativas de Hidrocarburos</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>524</especialidad>
+		<plan>2015</plan>
+		<orientacion>2</orientacion>
+		<nombre>Tecnicatura Universitaria en Mediciones Fiscales y Operativas de Hidrocarburos(EaD)</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>512</especialidad>
+		<plan>2014</plan>
+		<orientacion>2</orientacion>
+		<nombre>Tecnicatura Universitaria en Medio Ambiente Antrtico y Subantrtico</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>297</especialidad>
+		<plan>2006</plan>
+		<orientacion>2</orientacion>
+		<nombre>Tecnicatura Universitaria en Medio Ambiente Marino Costero</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>491</especialidad>
+		<plan>2011</plan>
+		<orientacion>1</orientacion>
+		<nombre>Tecnicatura Universitaria en Metalurgia</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>545</especialidad>
+		<plan>2017</plan>
+		<orientacion>2</orientacion>
+		<nombre>Tecnicatura Universitaria en Metrologa</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>531</especialidad>
+		<plan>2015</plan>
+		<orientacion>2</orientacion>
+		<nombre>Tecnicatura Universitaria en Minera</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>136</especialidad>
+		<plan>2010</plan>
+		<orientacion>1</orientacion>
+		<nombre>Tecnicatura Universitaria en Moldes, Matrices y Dispositivos</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>118</especialidad>
+		<plan>2002</plan>
+		<orientacion>1</orientacion>
+		<nombre>Tecnicatura Universitaria en Negociacin de Bienes</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>118</especialidad>
+		<plan>2025</plan>
+		<orientacion>0</orientacion>
+		<nombre>Tecnicatura Universitaria en Negociacin de Bienes</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>141</especialidad>
+		<plan>2010</plan>
+		<orientacion>2</orientacion>
+		<nombre>Tecnicatura Universitaria en Operacin y Mantenimiento de Redes Elctricas</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>527</especialidad>
+		<plan>2015</plan>
+		<orientacion>2</orientacion>
+		<nombre>Tecnicatura Universitaria en Perforacin y Terminacin de Pozos Petroleros</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>126</especialidad>
+		<plan>2005</plan>
+		<orientacion>1</orientacion>
+		<nombre>Tecnicatura Universitaria en Periodismo</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>493</especialidad>
+		<plan>2012</plan>
+		<orientacion>2</orientacion>
+		<nombre>Tecnicatura Universitaria en Procedimientos y Tecnologas Ambientales</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>532</especialidad>
+		<plan>2015</plan>
+		<orientacion>2</orientacion>
+		<nombre>Tecnicatura Universitaria en Procedimientos y Tecnologas Ambientales - MD</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>58</especialidad>
+		<plan>2005</plan>
+		<orientacion>1</orientacion>
+		<nombre>Tecnicatura Universitaria en Procesos Industriales</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>135</especialidad>
+		<plan>2008</plan>
+		<orientacion>1</orientacion>
+		<nombre>Tecnicatura Universitaria en Procesos Productivos del Caucho</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>489</especialidad>
+		<plan>2011</plan>
+		<orientacion>1</orientacion>
+		<nombre>Tecnicatura Universitaria en Produccin Textil</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>34</especialidad>
+		<plan>95</plan>
+		<orientacion>1</orientacion>
+		<nombre>Tecnicatura Universitaria en Programacin</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>34</especialidad>
+		<plan>2003</plan>
+		<orientacion>1</orientacion>
+		<nombre>Tecnicatura Universitaria en Programacin</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>34</especialidad>
+		<plan>2024</plan>
+		<orientacion>0</orientacion>
+		<nombre>Tecnicatura Universitaria en Programacin</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>611</especialidad>
+		<plan>2025</plan>
+		<orientacion>0</orientacion>
+		<nombre>Tecnicatura Universitaria en Programacin (EaD)</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>584</especialidad>
+		<plan>2021</plan>
+		<orientacion>0</orientacion>
+		<nombre>Tecnicatura Universitaria en Radiologa</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>133</especialidad>
+		<plan>2005</plan>
+		<orientacion>2</orientacion>
+		<nombre>Tecnicatura Universitaria en Recupero Crediticio</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>603</especialidad>
+		<plan>2023</plan>
+		<orientacion>0</orientacion>
+		<nombre>Tcnicatura Universitaria en Saneamiento y Produccin de Agua Potable</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>215</especialidad>
+		<plan>2006</plan>
+		<orientacion>2</orientacion>
+		<nombre>Tecnicatura Universitaria en Seguridad Urbana y Portuaria</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>122</especialidad>
+		<plan>2010</plan>
+		<orientacion>2</orientacion>
+		<nombre>Tecnicatura Universitaria en Seguridad Vial</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>120</especialidad>
+		<plan>2003</plan>
+		<orientacion>2</orientacion>
+		<nombre>Tecnicatura Universitaria en Sistemas Informticos</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>120</especialidad>
+		<plan>2022</plan>
+		<orientacion>0</orientacion>
+		<nombre>Tecnicatura Universitaria en Sistemas Informticos</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>59</especialidad>
+		<plan>2003</plan>
+		<orientacion>1</orientacion>
+		<nombre>Tecnicatura Universitaria en Supervisin de Procesos Industriales con Orientacin en Petroqumica</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>117</especialidad>
+		<plan>2017</plan>
+		<orientacion>1</orientacion>
+		<nombre>Tecnicatura Universitaria en Tecnologas de la Informacin (EaD)</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>505</especialidad>
+		<plan>2010</plan>
+		<orientacion>2</orientacion>
+		<nombre>Tecnicatura Universitaria en Telecomunicaciones</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>496</especialidad>
+		<plan>2012</plan>
+		<orientacion>2</orientacion>
+		<nombre>Tecnicatura Universitaria en Yacimientos Hidrocarburferos No Convencionales</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>525</especialidad>
+		<plan>2015</plan>
+		<orientacion>2</orientacion>
+		<nombre>Tecnicatura Universitaria en Yacimientos Hidrocarburferos No Convencionales (EaD)</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>117</especialidad>
+		<plan>2001</plan>
+		<orientacion>1</orientacion>
+		<nombre>Tecnicatura Universitario en Tecnologas de la Informacin</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>789</especialidad>
+		<plan>2022</plan>
+		<orientacion>1</orientacion>
+		<nombre>Tcnico en Desarrollo de Software</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>787</especialidad>
+		<plan>2013</plan>
+		<orientacion>0</orientacion>
+		<nombre>Tcnico en Electrnica</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>789</especialidad>
+		<plan>2022</plan>
+		<orientacion>0</orientacion>
+		<nombre>Tcnico en Hidrocarburos</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>84</especialidad>
+		<plan>95</plan>
+		<orientacion>1</orientacion>
+		<nombre>Tecnico Universitario en Administracin Rural</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>84</especialidad>
+		<plan>2003</plan>
+		<orientacion>1</orientacion>
+		<nombre>Tcnico Universitario en Administracin Rural</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>84</especialidad>
+		<plan>95</plan>
+		<orientacion>3</orientacion>
+		<nombre>Tecnico Universitario en Administracin Rural - Plan 95 Mod.</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>24</especialidad>
+		<plan>2023</plan>
+		<orientacion>1</orientacion>
+		<nombre>Tcnico Universitario en Administracin, Produccin y Gestin Industrial</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>9</especialidad>
+		<plan>85</plan>
+		<orientacion>1</orientacion>
+		<nombre>Tcnico Universitario en Electrnica</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>9</especialidad>
+		<plan>95</plan>
+		<orientacion>1</orientacion>
+		<nombre>Tcnico Universitario en Electrnica</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>9</especialidad>
+		<plan>2023</plan>
+		<orientacion>1</orientacion>
+		<nombre>Tcnico Universitario en Electrnica</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>9</especialidad>
+		<plan>95</plan>
+		<orientacion>3</orientacion>
+		<nombre>Tcnico Universitario en Electrnica - Plan 95 Mod.</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>606</especialidad>
+		<plan>2023</plan>
+		<orientacion>0</orientacion>
+		<nombre>Tcnico Universitario en Gestin y Administracin de Organizaciones Sindicales</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>18</especialidad>
+		<plan>2023</plan>
+		<orientacion>1</orientacion>
+		<nombre>Tcnico Universitario en Metalurgia</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>18</especialidad>
+		<plan>95</plan>
+		<orientacion>1</orientacion>
+		<nombre>Tcnico Universitario en Metalrgica</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>18</especialidad>
+		<plan>95</plan>
+		<orientacion>3</orientacion>
+		<nombre>Tcnico Universitario en Metalrgica - Plan 95 Mod</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>27</especialidad>
+		<plan>95</plan>
+		<orientacion>1</orientacion>
+		<nombre>Tcnico Universitario en Qumica</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>27</especialidad>
+		<plan>2023</plan>
+		<orientacion>1</orientacion>
+		<nombre>Tcnico Universitario en Qumica</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>27</especialidad>
+		<plan>95</plan>
+		<orientacion>3</orientacion>
+		<nombre>Tcnico Universitario en Qumica - Plan 95 Mod.</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>25</especialidad>
+		<plan>94</plan>
+		<orientacion>1</orientacion>
+		<nombre>Tcnico Universitario Pesquero- Orientacin Captura</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>25</especialidad>
+		<plan>94</plan>
+		<orientacion>3</orientacion>
+		<nombre>Tcnico Universitario Pesquero- Orientacin Procesamiento</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>25</especialidad>
+		<plan>95</plan>
+		<orientacion>1</orientacion>
+		<nombre>Tcnico Universitario Pesquero-Orientacin Captura</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>25</especialidad>
+		<plan>97</plan>
+		<orientacion>1</orientacion>
+		<nombre>Tcnico Universitario Pesquero-Orientacin Captura</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>25</especialidad>
+		<plan>95</plan>
+		<orientacion>3</orientacion>
+		<nombre>Tcnico Universitario Pesquero-Orientacin Procesamiento</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>25</especialidad>
+		<plan>97</plan>
+		<orientacion>3</orientacion>
+		<nombre>Tcnico Universitario Pesquero-Orientacin Procesamiento</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>784</especialidad>
+		<plan>2006</plan>
+		<orientacion>0</orientacion>
+		<nombre>Tcnico Vial</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>784</especialidad>
+		<plan>2006</plan>
+		<orientacion>1</orientacion>
+		<nombre>Tcnico Vial</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>950</especialidad>
+		<plan>2011</plan>
+		<orientacion>0</orientacion>
+		<nombre>Trayecto</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>951</especialidad>
+		<plan>2005</plan>
+		<orientacion>0</orientacion>
+		<nombre>Trayecto</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>952</especialidad>
+		<plan>2006</plan>
+		<orientacion>0</orientacion>
+		<nombre>Trayecto</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>953</especialidad>
+		<plan>2003</plan>
+		<orientacion>0</orientacion>
+		<nombre>Trayecto</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>954</especialidad>
+		<plan>2010</plan>
+		<orientacion>0</orientacion>
+		<nombre>Trayecto</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>955</especialidad>
+		<plan>2013</plan>
+		<orientacion>0</orientacion>
+		<nombre>Trayecto de Vinculacin</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>956</especialidad>
+		<plan>2015</plan>
+		<orientacion>0</orientacion>
+		<nombre>Trayecto de Vinculacin</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>957</especialidad>
+		<plan>2015</plan>
+		<orientacion>0</orientacion>
+		<nombre>Trayecto de Vinculacin</nombre>
+	</_expxml>
+</VFPData>
