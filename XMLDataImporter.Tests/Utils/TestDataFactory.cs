@@ -27,4 +27,14 @@ public static class TestDataFactory
         Plan = CreatePlan(),
         Especialidad = CreateEspecialidad()
     };
+    public static Pais CreatePais() => new()
+    {
+        Nombre = "AUSTRALIA",
+    };
+    public static Localidad CreateLocalidad() => new()
+    {
+        Ciudad = "FLORIDA",
+        Provincia = "Buenos Aires",
+        Pais = CreatePais(),
+    };
 }

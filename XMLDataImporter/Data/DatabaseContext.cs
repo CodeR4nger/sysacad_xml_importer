@@ -22,6 +22,7 @@ public class DatabaseContext : DbContext
     public DbSet<Plan> Planes { get; set; }
     public DbSet<Orientacion> Orientaciones { get; set; }
     public DbSet<Materia> Materias { get; set; }
+    public DbSet<Localidad> Localidades { get; set; }
 }
 
 /// <summary>

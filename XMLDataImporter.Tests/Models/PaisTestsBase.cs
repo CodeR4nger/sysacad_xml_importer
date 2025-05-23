@@ -1,6 +1,7 @@
 using XMLDataImporter.Models;
 using XMLDataImporter.Services;
 using XMLDataImporter.Repositories;
+using XMLDataImporter.Tests.Utils;
 
 namespace XMLDataImporter.Tests.Models;
 
@@ -9,10 +10,7 @@ public class PaisTests : EntityTestBase<Pais, PaisService>
     public PaisTests()
         : base(ctx => new PaisService(new PaisRepository(ctx))) { }
 
-    protected override Pais CreateEntity() => new()
-    {
-        Nombre = "AUSTRALIA"
-    };
+    protected override Pais CreateEntity() => TestDataFactory.CreatePais();
 
     protected override void CheckEntity(Pais entity)
     {
