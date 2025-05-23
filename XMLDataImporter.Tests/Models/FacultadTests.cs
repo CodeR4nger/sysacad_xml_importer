@@ -11,12 +11,12 @@ public class FacultadTests : EntityTestBase<Facultad, FacultadService>
 
     protected override Facultad CreateEntity() => new()
     {
-        Nombre = "Adjunto"
+        Nombre = "Facultad Regional Chubut"
     };
 
     protected override void CheckEntity(Facultad entity)
     {
-        Assert.Equal("Adjunto", entity.Nombre);
+        Assert.Equal("Facultad Regional Chubut", entity.Nombre);
     }
 
     protected override Facultad Create(Facultad entity) => Service.Create(entity);
@@ -27,10 +27,10 @@ public class FacultadTests : EntityTestBase<Facultad, FacultadService>
     protected override int GetId(Facultad entity) => entity.Id;
     protected override void ModifyEntity(Facultad entity)
     {
-        entity.Nombre = "Asociado";
+        entity.Nombre = "Facultad Regional Concordia";
     }
     protected override void CheckUpdatedEntity(Facultad entity)
     {
-        Assert.Equal("Asociado", entity.Nombre);
+        Assert.Equal("Facultad Regional Concordia", entity.Nombre);
     }
 }
