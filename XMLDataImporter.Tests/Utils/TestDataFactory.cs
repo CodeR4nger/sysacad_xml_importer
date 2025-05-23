@@ -14,4 +14,10 @@ public static class TestDataFactory
         Nombre = "2019",
         Especialidad = CreateEspecialidad()
     };
+    public static Orientacion CreateOrientacion() => new()
+    {
+        Nombre = "Analista de Sistemas",
+        Plan = CreatePlan(),
+        Especialidad = CreateEspecialidad()
+    };
 }
