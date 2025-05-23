@@ -20,4 +20,11 @@ public static class TestDataFactory
         Plan = CreatePlan(),
         Especialidad = CreateEspecialidad()
     };
+    public static Materia CreateMateria() => new()
+    {
+        Nombre = "Estabilidad I",
+        Ano = "2",
+        Plan = CreatePlan(),
+        Especialidad = CreateEspecialidad()
+    };
 }
