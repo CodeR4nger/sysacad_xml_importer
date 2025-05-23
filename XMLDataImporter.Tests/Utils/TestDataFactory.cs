@@ -41,4 +41,8 @@ public static class TestDataFactory
     {
         Nombre = "Adjunto"
     };
+    public static Facultad CreateFacultad() => new()
+    {
+        Nombre = "Facultad Regional Chubut"
+    };
 }
