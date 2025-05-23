@@ -6,9 +6,9 @@ public class DatabaseTests : IDisposable
 {
     private readonly DatabaseContext _db;
 
-    public DatabaseTests()
+    public DatabaseTests(IDatabaseContextFactory? factory = null)
     {
-        var factory = new DatabaseContextFactory();
+        factory ??= new DatabaseContextFactory(); 
         _db = factory.CreateDbContext([]);
     }
 

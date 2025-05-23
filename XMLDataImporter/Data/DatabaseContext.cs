@@ -15,8 +15,20 @@ public class DatabaseContext : DbContext
     }
 }
 
-        
-public class DatabaseContextFactory : IDesignTimeDbContextFactory<DatabaseContext>
+/// <summary>
+/// Define un contrato para crear instancias de <see cref="DatabaseContext"/>.
+/// </summary>
+public interface IDatabaseContextFactory
+{
+    /// <summary>
+    /// Crea una nueva instancia de <see cref="DatabaseContext"/>.
+    /// </summary>
+    /// <param name="args">Argumentos opcionales de configuración.</param>
+    /// <returns>Una instancia de <see cref="DatabaseContext"/>.</returns>
+    DatabaseContext CreateDbContext(string[] args);
+}
+
+public class DatabaseContextFactory : IDesignTimeDbContextFactory<DatabaseContext>,IDatabaseContextFactory
 {
     private readonly IEnvironmentHandler _envHandler;
 
