@@ -1,6 +1,7 @@
 using XMLDataImporter.Models;
 using XMLDataImporter.Services;
 using XMLDataImporter.Repositories;
+using XMLDataImporter.Tests.Utils;
 
 namespace XMLDataImporter.Tests.Models;
 
@@ -9,10 +10,7 @@ public class GradoTests : EntityTestBase<Grado, GradoService>
     public GradoTests()
         : base(ctx => new GradoService(new GradoRepository(ctx))) { }
 
-    protected override Grado CreateEntity() => new()
-    {
-        Nombre = "Adjunto"
-    };
+    protected override Grado CreateEntity() => TestDataFactory.CreateGrado();
 
     protected override void CheckEntity(Grado entity)
     {
