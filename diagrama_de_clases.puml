@@ -58,5 +58,6 @@ package "Sistema Académico"{
     Plan -- Especialidad
     Plan -- Materias
     Materias -- Especialidad
+    Orientacion -- Especialidad
 }
 @enduml
