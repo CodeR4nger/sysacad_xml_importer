@@ -19,6 +19,7 @@ public class DatabaseContext : DbContext
     public DbSet<Facultad> Facultades { get; set; }
     public DbSet<Universidad> Universidades { get; set; }
     public DbSet<Pais> Paises { get; set; }
+    public DbSet<Plan> Planes { get; set; }
 }
 
 /// <summary>

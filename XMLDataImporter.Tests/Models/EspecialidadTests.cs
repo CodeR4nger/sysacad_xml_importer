@@ -1,6 +1,7 @@
 using XMLDataImporter.Models;
 using XMLDataImporter.Services;
 using XMLDataImporter.Repositories;
+using XMLDataImporter.Tests.Utils;
 
 namespace XMLDataImporter.Tests.Models;
 
@@ -9,10 +10,7 @@ public class EspecialidadTests : EntityTestBase<Especialidad, EspecialidadServic
     public EspecialidadTests()
         : base(ctx => new EspecialidadService(new EspecialidadRepository(ctx))) { }
 
-    protected override Especialidad CreateEntity() => new()
-    {
-        Nombre = "Análisis de Sistemas"
-    };
+    protected override Especialidad CreateEntity() => TestDataFactory.CreateEspecialidad();
 
     protected override void CheckEntity(Especialidad entity)
     {
