@@ -1,5 +1,6 @@
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Design;
+using XMLDataImporter.Models;
 using XMLDataImporter.Utils;
 
 namespace XMLDataImporter.Data;
@@ -13,6 +14,7 @@ public class DatabaseContext : DbContext
     {
 
     }
+    public DbSet<Grado> Grados { get; set; }
 }
 
 /// <summary>
