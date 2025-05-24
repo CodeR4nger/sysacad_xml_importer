@@ -15,9 +15,18 @@ public class EspecialidadImporter(EspecialidadService Service)
         using (StringReader reader = new(xmlData))
         {
             EspecialidadWrapper data = (EspecialidadWrapper)serializer.Deserialize(reader)!;
-            foreach (var grado in data.Especialidades)
+            foreach (var entity in data.Especialidades)
             {
-                Service.Create(grado);
+                var existing = Service.SearchById(entity.Id);
+                if (existing == null) {
+                    Service.Create(entity);
+                }
+                else
+                {
+                    existing.Id = entity.Id;
+                    existing.Nombre = entity.Nombre;
+                    Service.Update(existing);
+                }
             }
         }
     }

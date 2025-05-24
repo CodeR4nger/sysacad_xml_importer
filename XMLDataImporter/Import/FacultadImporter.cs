@@ -15,9 +15,18 @@ public class FacultadImporter(FacultadService Service)
         using (StringReader reader = new(xmlData))
         {
             FacultadWrapper data = (FacultadWrapper)serializer.Deserialize(reader)!;
-            foreach (var grado in data.Facultades)
+            foreach (var entity in data.Facultades)
             {
-                Service.Create(grado);
+                var existing = Service.SearchById(entity.Id);
+                if (existing == null) {
+                    Service.Create(entity);
+                }
+                else
+                {
+                    existing.Id = entity.Id;
+                    existing.Nombre = entity.Nombre;
+                    Service.Update(existing);
+                }
             }
         }
     }

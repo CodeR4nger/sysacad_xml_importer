@@ -7,6 +7,7 @@ using XMLDataImporter.Tests.Utils;
 
 namespace XMLDataImporter.Tests.Import;
 
+[Collection("SequentialTests")]
 public class MateriaImporterTests : BaseTestDB
 {
     private readonly string TestFilePath = "testMaterias.xml";
@@ -41,25 +42,35 @@ public class MateriaImporterTests : BaseTestDB
             Materias = [entity]
         };
         XmlSerializer serializer = new(typeof(MateriaWrapper));
-        using (var writer = new StreamWriter(TestFilePath,false,Encoding.GetEncoding(1252)))
+        using (var writer = new StreamWriter(TestFilePath, false, Encoding.GetEncoding(1252)))
         {
             serializer.Serialize(writer, entities);
         }
         return entity;
     }
-    private static void CheckEntity(Materia original,Materia? searched)
+    private static void CheckEntity(Materia original, Materia? searched)
     {
         Assert.NotNull(searched);
-        Assert.Equal(original.Nombre,searched.Nombre);
-        Assert.Equal(original.Ano,searched.Ano);
-        Assert.Equivalent(original.Plan,searched.Plan);
-        Assert.Equivalent(original.Especialidad,searched.Especialidad);
+        Assert.Equal(original.Nombre, searched.Nombre);
+        Assert.Equal(original.Ano, searched.Ano);
+        Assert.Equivalent(original.Plan, searched.Plan);
+        Assert.Equivalent(original.Especialidad, searched.Especialidad);
     }
     [Fact]
     public void CanImportXML()
     {
         var originalMateria = CreateTestXML();
         var importer = new MateriaImporter(Service);
+        importer.Import(TestFilePath);
+        Materia? searchedMateria = Service.SearchById(originalMateria.Id);
+        CheckEntity(originalMateria, searchedMateria);
+    }
+    [Fact]
+    public void CanImportWhenDuplicated()
+    {
+        var originalMateria = CreateTestXML();
+        var importer = new MateriaImporter(Service);
+        Service.Create(originalMateria);
         importer.Import(TestFilePath);
         Materia? searchedMateria = Service.SearchById(originalMateria.Id);
         CheckEntity(originalMateria, searchedMateria);

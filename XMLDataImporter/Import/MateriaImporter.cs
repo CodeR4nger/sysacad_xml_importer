@@ -17,7 +17,19 @@ public class MateriaImporter(MateriaService Service)
             MateriaWrapper data = (MateriaWrapper)serializer.Deserialize(reader)!;
             foreach (var entity in data.Materias)
             {
-                Service.Create(entity);
+                var existing = Service.SearchById(entity.Id);
+                if (existing == null) {
+                    Service.Create(entity);
+                }
+                else
+                {
+                    existing.Id = entity.Id;
+                    existing.Nombre = entity.Nombre;
+                    existing.Ano = entity.Ano;
+                    existing.EspecialidadId = entity.EspecialidadId;
+                    existing.PlanId = entity.PlanId;
+                    Service.Update(existing);
+                }
             }
         }
     }

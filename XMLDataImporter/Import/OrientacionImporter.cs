@@ -17,7 +17,18 @@ public class OrientacionImporter(OrientacionService Service)
             OrientacionWrapper data = (OrientacionWrapper)serializer.Deserialize(reader)!;
             foreach (var entity in data.Orientaciones)
             {
-                Service.Create(entity);
+                var existing = Service.SearchById(entity.Id);
+                if (existing == null) {
+                    Service.Create(entity);
+                }
+                else
+                {
+                    existing.Id = entity.Id;
+                    existing.Nombre = entity.Nombre;
+                    existing.EspecialidadId = entity.EspecialidadId;
+                    existing.PlanId = entity.PlanId;
+                    Service.Update(existing);
+                }
             }
         }
     }

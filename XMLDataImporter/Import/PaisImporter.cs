@@ -15,9 +15,18 @@ public class PaisImporter(PaisService Service)
         using (StringReader reader = new(xmlData))
         {
             PaisWrapper data = (PaisWrapper)serializer.Deserialize(reader)!;
-            foreach (var grado in data.Paises)
+            foreach (var entity in data.Paises)
             {
-                Service.Create(grado);
+                var existing = Service.SearchById(entity.Id);
+                if (existing == null) {
+                    Service.Create(entity);
+                }
+                else
+                {
+                    existing.Id = entity.Id;
+                    existing.Nombre = entity.Nombre;
+                    Service.Update(existing);
+                }
             }
         }
     }

@@ -15,9 +15,18 @@ public class GradoImporter(GradoService Service)
         using (StringReader reader = new(xmlData))
         {
             GradoWrapper data = (GradoWrapper)serializer.Deserialize(reader)!;
-            foreach (var grado in data.Grados)
+            foreach (var entity in data.Grados)
             {
-                Service.Create(grado);
+                var existing = Service.SearchById(entity.Id);
+                if (existing == null) {
+                    Service.Create(entity);
+                }
+                else
+                {
+                    existing.Id = entity.Id;
+                    existing.Nombre = entity.Nombre;
+                    Service.Update(existing);
+                }
             }
         }
     }

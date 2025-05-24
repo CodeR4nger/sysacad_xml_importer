@@ -17,7 +17,18 @@ public class LocalidadImporter(LocalidadService Service)
             LocalidadWrapper data = (LocalidadWrapper)serializer.Deserialize(reader)!;
             foreach (var entity in data.Localidades)
             {
-                Service.Create(entity);
+                var existing = Service.SearchById(entity.Id);
+                if (existing == null) {
+                    Service.Create(entity);
+                }
+                else
+                {
+                    existing.Id = entity.Id;
+                    existing.Ciudad = entity.Ciudad;
+                    existing.Provincia = entity.Provincia;
+                    existing.Pais = entity.Pais;
+                    Service.Update(existing);
+                }
             }
         }
     }

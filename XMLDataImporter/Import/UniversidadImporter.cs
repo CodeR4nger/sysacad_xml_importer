@@ -15,9 +15,18 @@ public class UniversidadImporter(UniversidadService Service)
         using (StringReader reader = new(xmlData))
         {
             UniversidadWrapper data = (UniversidadWrapper)serializer.Deserialize(reader)!;
-            foreach (var grado in data.Universidades)
+            foreach (var entity in data.Universidades)
             {
-                Service.Create(grado);
+                var existing = Service.SearchById(entity.Id);
+                if (existing == null) {
+                    Service.Create(entity);
+                }
+                else
+                {
+                    existing.Id = entity.Id;
+                    existing.Nombre = entity.Nombre;
+                    Service.Update(existing);
+                }
             }
         }
     }

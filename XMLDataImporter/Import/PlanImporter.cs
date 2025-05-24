@@ -17,7 +17,18 @@ public class PlanImporter(PlanService Service)
             PlanWrapper data = (PlanWrapper)serializer.Deserialize(reader)!;
             foreach (var entity in data.Planes)
             {
-                Service.Create(entity);
+                var existing = Service.SearchById(entity.Id);
+                if (existing == null) {
+                    Service.Create(entity);
+                }
+                else
+                {
+                    existing.Id = entity.Id;
+                    existing.Nombre = entity.Nombre;
+                    existing.Codigo = entity.Codigo;
+                    existing.EspecialidadId = existing.EspecialidadId;
+                    Service.Update(existing);
+                }
             }
         }
     }

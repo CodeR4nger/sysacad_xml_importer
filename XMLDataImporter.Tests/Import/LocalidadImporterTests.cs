@@ -7,6 +7,7 @@ using XMLDataImporter.Tests.Utils;
 
 namespace XMLDataImporter.Tests.Import;
 
+[Collection("SequentialTests")]
 public class LocalidadImporterTests : BaseTestDB
 {
     private readonly string TestFilePath = "testLocalidades.xml";
@@ -33,22 +34,32 @@ public class LocalidadImporterTests : BaseTestDB
             Localidades = [entity]
         };
         XmlSerializer serializer = new(typeof(LocalidadWrapper));
-        using (var writer = new StreamWriter(TestFilePath,false,Encoding.GetEncoding(1252)))
+        using (var writer = new StreamWriter(TestFilePath, false, Encoding.GetEncoding(1252)))
         {
             serializer.Serialize(writer, entities);
         }
         return entity;
     }
-    private static void CheckEntity(Localidad original,Localidad? searched)
+    private static void CheckEntity(Localidad original, Localidad? searched)
     {
         Assert.NotNull(searched);
-        Assert.Equivalent(original,searched);
+        Assert.Equivalent(original, searched);
     }
     [Fact]
     public void CanImportXML()
     {
         var originalLocalidad = CreateTestXML();
         var importer = new LocalidadImporter(Service);
+        importer.Import(TestFilePath);
+        Localidad? searchedLocalidad = Service.SearchById(originalLocalidad.Id);
+        CheckEntity(originalLocalidad, searchedLocalidad);
+    }
+    [Fact]
+    public void CanImportWhenDuplicated()
+    {
+        var originalLocalidad = CreateTestXML();
+        var importer = new LocalidadImporter(Service);
+        Service.Create(originalLocalidad);
         importer.Import(TestFilePath);
         Localidad? searchedLocalidad = Service.SearchById(originalLocalidad.Id);
         CheckEntity(originalLocalidad, searchedLocalidad);
