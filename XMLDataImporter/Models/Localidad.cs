@@ -9,9 +9,9 @@ public class Localidad
 {
     [Key]
     public int Id { get; set; }
-    [Column(TypeName = "varchar(50)")]
+    [Column(TypeName = "varchar(100)")]
     public required string Ciudad { get; set; }
-    [Column(TypeName = "varchar(50)")]
+    [Column(TypeName = "varchar(100)")]
     public required string Provincia { get; set; }
     public int PaisId { get; set; }
     [ForeignKey("PaisId")]

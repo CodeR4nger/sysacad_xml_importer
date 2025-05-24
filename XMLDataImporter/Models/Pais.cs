@@ -9,7 +9,7 @@ public class Pais
 {
     [Key]
     public int Id { get; set; }
-    [Column(TypeName = "varchar(50)")]
+    [Column(TypeName = "varchar(100)")]
     public required string Nombre { get; set; }
 }
 

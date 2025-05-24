@@ -10,7 +10,7 @@ public class Materia
     [Key]
     [XmlElement("materia")]
     public int Id { get; set; }
-    [Column(TypeName = "varchar(50)")]
+    [Column(TypeName = "varchar(100)")]
     [XmlElement("nombre")]
     public required string Nombre { get; set; }
     [Column(TypeName = "varchar(10)")]
