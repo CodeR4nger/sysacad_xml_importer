@@ -17,8 +17,7 @@ public class LocalidadTests : EntityTestBase<Localidad, LocalidadService>
         Assert.NotNull(entity);
         Assert.Equal("FLORIDA", entity.Ciudad);
         Assert.Equal("Buenos Aires", entity.Provincia);
-        Assert.NotNull(entity.Pais);
-        Assert.Equal("AUSTRALIA", entity.Pais.Nombre);
+        Assert.Equal("Argentina", entity.Pais);
     }
 
     protected override Localidad Create(Localidad entity) => Service.Create(entity);

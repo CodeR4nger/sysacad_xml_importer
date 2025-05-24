@@ -5,20 +5,8 @@ using XMLDataImporter.Services;
 
 namespace XMLDataImporter.Import;
 
-public class LocalidadImporter(LocalidadService Service,PaisService paisService)
+public class LocalidadImporter(LocalidadService Service)
 {
-    public Pais? GetPaisFromXMLCode(string paisString,PaisService service)
-    {
-        string formattedPais;
-        if (paisString.Contains("Sin Definir"))
-        {
-            formattedPais = paisString.Replace(" Sin ","  SIN  ");
-        } else {
-            formattedPais = paisString.ToUpper();
-        }
-        Pais? pais = service.SearchByNombre(formattedPais);
-        return pais;
-    }
     public void Import(string path)
     {
         Encoding.RegisterProvider(CodePagesEncodingProvider.Instance);
@@ -29,18 +17,7 @@ public class LocalidadImporter(LocalidadService Service,PaisService paisService)
             LocalidadWrapper data = (LocalidadWrapper)serializer.Deserialize(reader)!;
             foreach (var entity in data.Localidades)
             {
-                Pais? pais = GetPaisFromXMLCode(entity.Pais,paisService);
-                if (pais == null)
-                    continue;
-                Localidad localidad = new()
-                {
-                    Id = entity.Id,
-                    Ciudad = entity.Ciudad,
-                    Provincia = entity.Provincia,
-                    Pais = pais,
-                    PaisId = pais.Id
-                };
-                Service.Create(localidad);
+                Service.Create(entity);
             }
         }
     }

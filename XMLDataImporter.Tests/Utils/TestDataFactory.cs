@@ -36,7 +36,7 @@ public static class TestDataFactory
     {
         Ciudad = "FLORIDA",
         Provincia = "Buenos Aires",
-        Pais = CreatePais(),
+        Pais = "Argentina",
     };
     public static Grado CreateGrado() => new()
     {

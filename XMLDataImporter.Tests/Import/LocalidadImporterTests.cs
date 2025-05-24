@@ -1,4 +1,3 @@
-using System.Globalization;
 using System.Text;
 using System.Xml.Serialization;
 using XMLDataImporter.Import;
@@ -12,12 +11,10 @@ public class LocalidadImporterTests : BaseTestDB
 {
     private readonly string TestFilePath = "testLocalidades.xml";
     private readonly LocalidadService Service;
-    private readonly PaisService paisService;
 
     public LocalidadImporterTests()
     {
         Service = new LocalidadService(new Repositories.LocalidadRepository(Context));
-        paisService = new PaisService(new Repositories.PaisRepository(Context));
     }
     public override void Dispose()
     {
@@ -31,21 +28,9 @@ public class LocalidadImporterTests : BaseTestDB
         Encoding.RegisterProvider(CodePagesEncodingProvider.Instance);
         var entity = TestDataFactory.CreateLocalidad();
         entity.Id = 5;
-        entity.PaisId = 6;
-        entity.Pais.Id = 6;
-
-        paisService.Create(entity.Pais);
-        TextInfo textInfo = CultureInfo.CurrentCulture.TextInfo;
-        LocalidadXML localidadXML = new()
-        {
-            Id = entity.Id,
-            Ciudad = entity.Ciudad,
-            Provincia = entity.Provincia,
-            Pais = textInfo.ToTitleCase(entity.Pais.Nombre.ToLower())
-        };
         LocalidadWrapper entities = new()
         {
-            Localidades = [localidadXML]
+            Localidades = [entity]
         };
         XmlSerializer serializer = new(typeof(LocalidadWrapper));
         using (var writer = new StreamWriter(TestFilePath,false,Encoding.GetEncoding(1252)))
@@ -58,13 +43,12 @@ public class LocalidadImporterTests : BaseTestDB
     {
         Assert.NotNull(searched);
         Assert.Equivalent(original,searched);
-        Assert.Equivalent(original.Pais,searched.Pais);
     }
     [Fact]
     public void CanImportXML()
     {
         var originalLocalidad = CreateTestXML();
-        var importer = new LocalidadImporter(Service,paisService);
+        var importer = new LocalidadImporter(Service);
         importer.Import(TestFilePath);
         Localidad? searchedLocalidad = Service.SearchById(originalLocalidad.Id);
         CheckEntity(originalLocalidad, searchedLocalidad);
