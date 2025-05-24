@@ -8,9 +8,7 @@ namespace XMLDataImporter.Services;
 
 ///<summary> Servicio para la entidad Pais. </summary>
 
-public class PaisService : BaseModelService<Pais>
+public class PaisService(PaisRepository repository) : BaseModelService<Pais>(repository)
 {
-    public PaisService(PaisRepository repository) : base(repository)
-    {
-    }
+    public Pais? SearchByNombre(string nombre) => (repository as PaisRepository)?.SearchByNombre(nombre);
 }
