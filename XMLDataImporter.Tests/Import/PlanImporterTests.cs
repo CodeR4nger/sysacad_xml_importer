@@ -55,7 +55,7 @@ public class PlanImporterTests : BaseTestDB
         var originalPlan = CreateTestXML();
         var importer = new PlanImporter(Service);
         importer.Import(TestFilePath);
-        Plan? searchedPlan = Service.SearchById(originalPlan.Id);
+        Plan? searchedPlan = Service.SearchAll().First();
         CheckEntity(originalPlan, searchedPlan);
     }
 }

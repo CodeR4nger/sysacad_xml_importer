@@ -15,6 +15,7 @@ public class PlanTests : EntityTestBase<Plan, PlanService>
     protected override void CheckEntity(Plan entity)
     {
         Assert.NotNull(entity);
+        Assert.Equal(2019, entity.Codigo);
         Assert.Equal("2019", entity.Nombre);
         Assert.NotNull(entity.Especialidad);
         Assert.Equal("Análisis de Sistemas", entity.Especialidad.Nombre);
