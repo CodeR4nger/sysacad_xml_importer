@@ -1,6 +1,7 @@
 using XMLDataImporter.Models;
 using XMLDataImporter.Services;
 using XMLDataImporter.Repositories;
+using XMLDataImporter.Tests.Utils;
 
 namespace XMLDataImporter.Tests.Models;
 
@@ -9,10 +10,7 @@ public class UniversidadTests : EntityTestBase<Universidad, UniversidadService>
     public UniversidadTests()
         : base(ctx => new UniversidadService(new UniversidadRepository(ctx))) { }
 
-    protected override Universidad CreateEntity() => new()
-    {
-        Nombre = "Universidad Nacional del Comahue"
-    };
+    protected override Universidad CreateEntity() => TestDataFactory.CreateUniversidad();
 
     protected override void CheckEntity(Universidad entity)
     {

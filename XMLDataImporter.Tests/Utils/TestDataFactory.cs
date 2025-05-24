@@ -45,4 +45,8 @@ public static class TestDataFactory
     {
         Nombre = "Facultad Regional Chubut"
     };
+    public static Universidad CreateUniversidad() =>  new()
+    {
+        Nombre = "Universidad Nacional del Comahue"
+    };
 }
