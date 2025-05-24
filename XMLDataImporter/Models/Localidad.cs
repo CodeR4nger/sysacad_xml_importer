@@ -20,9 +20,13 @@ public class Localidad
 
 public class LocalidadXML
 {
+    [XmlElement("codigo")]
     public int Id { get; set; }
+    [XmlElement("ciudad")]
     public required string Ciudad { get; set; }
+    [XmlElement("provincia")]
     public required string Provincia { get; set; }
+    [XmlElement("pais_del_c")]
     public required string Pais { get; set; }
 }
 
