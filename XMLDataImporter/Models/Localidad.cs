@@ -33,6 +33,6 @@ public class LocalidadXML
 [XmlRoot("VFPData")]
 public class LocalidadWrapper
 {
-    [XmlElement("_expxml")]
+    [XmlElement("_exportar")]
     public required List<LocalidadXML> Localidades { get; set; }
 }
