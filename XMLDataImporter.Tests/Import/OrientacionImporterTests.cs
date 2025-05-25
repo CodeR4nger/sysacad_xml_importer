@@ -32,14 +32,28 @@ public class OrientacionImporterTests : BaseTestDB
         entity.Especialidad.Id = 6;
         entity.EspecialidadId = 6;
         entity.Plan.Id = 7;
+        entity.Plan.EspecialidadId = 6;
+        entity.Plan.Especialidad = entity.Especialidad;
         entity.PlanId = 7;
         var especialidadService = new EspecialidadService(new Repositories.EspecialidadRepository(Context));
         var planService = new PlanService(new Repositories.PlanRepository(Context));
-        especialidadService.Create(entity.Especialidad);
-        planService.Create(entity.Plan);
+        entity.Especialidad = especialidadService.Create(entity.Especialidad);
+        entity.EspecialidadId = entity.Especialidad.Id;
+        entity.Plan = planService.Create(entity.Plan);
+        entity.PlanId = entity.Plan.Id;
+        Orientacion testOrientacion = new()
+        {
+            Id = entity.Id,
+            Nombre = entity.Nombre,
+            Especialidad = entity.Especialidad,
+            Codigo = entity.Codigo,
+            EspecialidadId = entity.EspecialidadId,
+            Plan = entity.Plan,
+            PlanId = entity.Plan.Codigo,
+        };
         OrientacionWrapper entities = new()
         {
-            Orientaciones = [entity]
+            Orientaciones = [testOrientacion]
         };
         XmlSerializer serializer = new(typeof(OrientacionWrapper));
         using (var writer = new StreamWriter(TestFilePath, false, Encoding.GetEncoding(1252)))
@@ -59,9 +73,9 @@ public class OrientacionImporterTests : BaseTestDB
     public void CanImportXML()
     {
         var originalOrientacion = CreateTestXML();
-        var importer = new OrientacionImporter(Service);
+        var importer = new OrientacionImporter(Service,new PlanService(new Repositories.PlanRepository(Context)));
         importer.Import(TestFilePath);
-        Orientacion? searchedOrientacion = Service.SearchById(originalOrientacion.Id);
+        Orientacion? searchedOrientacion = Service.SearchAll().First();
         CheckEntity(originalOrientacion, searchedOrientacion);
     }
     [Fact]
@@ -69,7 +83,7 @@ public class OrientacionImporterTests : BaseTestDB
     {
         var originalOrientacion = CreateTestXML();
         Service.Create(originalOrientacion);
-        var importer = new OrientacionImporter(Service);
+        var importer = new OrientacionImporter(Service,new PlanService(new Repositories.PlanRepository(Context)));
         importer.Import(TestFilePath);
         Orientacion? searchedOrientacion = Service.SearchById(originalOrientacion.Id);
         CheckEntity(originalOrientacion, searchedOrientacion);

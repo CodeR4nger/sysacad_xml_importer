@@ -10,7 +10,13 @@ namespace XMLDataImporter.Services;
 
 public class PlanService : BaseModelService<Plan>
 {
+    private readonly PlanRepository Repository;
     public PlanService(PlanRepository repository) : base(repository)
     {
+        Repository = repository;
+    }
+    public Plan? GetByPlanIdAndEspecialidadId(int Codigo, int EspecialidadId)
+    {
+        return Repository.GetByPlanIdAndEspecialidadId(Codigo, EspecialidadId);
     }
 }

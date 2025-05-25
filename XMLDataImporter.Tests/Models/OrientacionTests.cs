@@ -16,6 +16,7 @@ public class OrientacionTests : EntityTestBase<Orientacion, OrientacionService>
     {
         Assert.NotNull(entity);
         Assert.Equal("Analista de Sistemas", entity.Nombre);
+        Assert.Equal(1, entity.Codigo);
         Assert.NotNull(entity.Especialidad);
         Assert.Equal("Análisis de Sistemas", entity.Especialidad.Nombre);
         Assert.NotNull(entity.Plan);

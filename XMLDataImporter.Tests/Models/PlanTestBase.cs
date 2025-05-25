@@ -35,4 +35,13 @@ public class PlanTests : EntityTestBase<Plan, PlanService>
     {
         Assert.Equal("2020", entity.Nombre);
     }
+
+    [Fact]
+    public void CanSearchByCompositeKey()
+    {
+        var entity = Create(CreateEntity());
+        var fetched = Service.GetByPlanIdAndEspecialidadId(entity.Codigo, entity.EspecialidadId);
+        Assert.NotNull(fetched);
+        CheckEntity(fetched);
+    }
 }

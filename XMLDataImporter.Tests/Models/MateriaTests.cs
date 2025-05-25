@@ -16,6 +16,7 @@ public class MateriaTests : EntityTestBase<Materia, MateriaService>
     {
         Assert.NotNull(entity);
         Assert.Equal("Estabilidad I", entity.Nombre);
+        Assert.Equal(203, entity.Codigo);
         Assert.Equal("2", entity.Ano);
         Assert.NotNull(entity.Especialidad);
         Assert.Equal("Análisis de Sistemas", entity.Especialidad.Nombre);

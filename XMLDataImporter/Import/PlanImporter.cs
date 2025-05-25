@@ -17,13 +17,12 @@ public class PlanImporter(PlanService Service)
             PlanWrapper data = (PlanWrapper)serializer.Deserialize(reader)!;
             foreach (var entity in data.Planes)
             {
-                var existing = Service.SearchById(entity.Id);
+                var existing = Service.GetByPlanIdAndEspecialidadId(entity.Codigo,entity.EspecialidadId);
                 if (existing == null) {
                     Service.Create(entity);
                 }
                 else
                 {
-                    existing.Id = entity.Id;
                     existing.Nombre = entity.Nombre;
                     existing.Codigo = entity.Codigo;
                     existing.EspecialidadId = existing.EspecialidadId;

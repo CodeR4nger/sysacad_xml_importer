@@ -8,8 +8,10 @@ namespace XMLDataImporter.Models;
 public class Materia
 {
     [Key]
-    [XmlElement("materia")]
+    [XmlIgnore]
     public int Id { get; set; }
+    [XmlElement("materia")]
+    public int Codigo { get; set; }
     [Column(TypeName = "varchar(100)")]
     [XmlElement("nombre")]
     public required string Nombre { get; set; }

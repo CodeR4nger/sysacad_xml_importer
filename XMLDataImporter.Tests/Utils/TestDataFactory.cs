@@ -19,12 +19,14 @@ public static class TestDataFactory
     {
         Nombre = "Analista de Sistemas",
         Plan = CreatePlan(),
+        Codigo = 1,
         Especialidad = CreateEspecialidad()
     };
     public static Materia CreateMateria() => new()
     {
         Nombre = "Estabilidad I",
         Ano = "2",
+        Codigo = 203,
         Plan = CreatePlan(),
         Especialidad = CreateEspecialidad()
     };

@@ -5,7 +5,7 @@ using XMLDataImporter.Services;
 
 namespace XMLDataImporter.Import;
 
-public class MateriaImporter(MateriaService Service)
+public class MateriaImporter(MateriaService Service,PlanService planService)
 {
     public void Import(string path)
     {
@@ -17,13 +17,21 @@ public class MateriaImporter(MateriaService Service)
             MateriaWrapper data = (MateriaWrapper)serializer.Deserialize(reader)!;
             foreach (var entity in data.Materias)
             {
+                var plan = planService.GetByPlanIdAndEspecialidadId(entity.PlanId, entity.EspecialidadId);
+                if (plan == null)
+                    continue;
+
+                entity.PlanId = plan.Id;
+                entity.Plan = plan;
                 var existing = Service.SearchById(entity.Id);
-                if (existing == null) {
+                if (existing == null)
+                {
                     Service.Create(entity);
                 }
                 else
                 {
                     existing.Id = entity.Id;
+                    existing.Codigo = entity.Codigo;
                     existing.Nombre = entity.Nombre;
                     existing.Ano = entity.Ano;
                     existing.EspecialidadId = entity.EspecialidadId;
