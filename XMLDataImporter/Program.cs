@@ -1,4 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
+using Microsoft.EntityFrameworkCore;
 using XMLDataImporter.Data;
 using XMLDataImporter.Import;
 using XMLDataImporter.Repositories;
@@ -8,6 +9,7 @@ Console.WriteLine("IMPORTADOR XML");
 
 Console.WriteLine("Conectando a base de datos");
 var databaseContext = new DatabaseContextFactory().CreateDbContext([]);
+databaseContext.Database.Migrate();
 Console.WriteLine("Conexion establecida exitosamente");
 
 const string PATH = "files/";
