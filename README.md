@@ -26,6 +26,33 @@ La aplicación procesa los siguientes archivos:
 
 ## Requisitos
 
+### Para ejecutar la aplicación:
+- Sistema operativo compatible (Windows o Linux)
+- Permisos de ejecución para el archivo (`XMLDataImporter` o `XMLDataImporter.exe`)
+- Acceso a una instancia de **PostgreSQL** con la base de datos `DEV_SYSACAD`
+
+
+### Para compilar o desarrollar:
 - [.NET SDK](https://dotnet.microsoft.com/download)
-- SQL Server con la base de datos `DEV_SYSACAD`
-- Visual Studio o editor compatible con C#
+- Visual Studio o cualquier editor compatible con C# (por ejemplo, Visual Studio Code con la extensión de C#)
+
+## Ejecución
+
+#### Windows 
+Ejecutar el archivo `XMLDataImporter.exe`
+
+#### Linux
+1. Asegúrate de que el archivo tenga permisos de ejecución. Si no los tiene, asígnalos con:
+
+   ```bash
+   chmod +x XMLDataImporter
+    ```
+2. Ejecuta el archivo directamente desde la terminal:
+   ```bash
+   ./XMLDataImporter
+    ```
+## Desarrollador
+
+Esta aplicación fue desarrollada por:
+
+- Ignacio Bianchi – Desarrollo completo (backend, lógica de negocio, base de datos, documentación)
